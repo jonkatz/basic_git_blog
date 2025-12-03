@@ -1,0 +1,14 @@
+# Local development config - uses theme gem instead of remote_theme
+# Use this for local testing: bundle exec jekyll serve --config _config.yml,_config_local.yml
+
+# Override theme setting to use local gem
+theme: minimal-mistakes-jekyll
+remote_theme: null
+
+# Remove remote-theme plugin for local use
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
