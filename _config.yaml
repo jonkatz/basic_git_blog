@@ -1,11 +1,10 @@
-yml
 # Site settings
 locale: en-US
 title: "Your Blog Title"
 name: "Your Name"
 description: "Notes, essays, and updates"
-url: ""   # set to https://<username>.github.io or your custom domain
-baseurl: ""  # no trailing slash
+url: "" # set to https://<username>.github.io or your custom domain
+baseurl: "" # no trailing slash
 
 # Build settings
 markdown: kramdown
