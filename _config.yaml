@@ -1,0 +1,58 @@
+yml
+# Site settings
+locale: en-US
+title: "Your Blog Title"
+name: "Your Name"
+description: "Notes, essays, and updates"
+url: ""   # set to https://<username>.github.io or your custom domain
+baseurl: ""  # no trailing slash
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+# Theme (served via GitHub Pages with remote_theme)
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+
+# Minimal Mistakes theme settings
+minimal_mistakes_skin: default
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+collections:
+  posts:
+    output: true
+
+# Author profile
+author:
+  name: "Your Name"
+  bio: "Short bio goes here."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/<username>"
+
+# Footer links
+footer:
+  links:
+    - label: "RSS"
+      url: "/feed.xml"
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true

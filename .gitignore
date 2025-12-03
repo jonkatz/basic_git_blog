@@ -1,0 +1,22 @@
+# Bundler
+vendor/
+.bundle/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Python (uv)
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+
+#files
+*/tutorials/*
+
