@@ -3,8 +3,8 @@ title: "SageVoice Post-Mortem (2 of 2): What went right?"
 date: 2025-10-24 09:45:00
 categories: [newsletter]
 header:
-  og_image: /assets/images/PI-no-ragrets-900x600-1.jpg
-image: /assets/images/PI-no-ragrets-900x600-1.jpg
+  og_image: /assets/images/PI-no-ragrets-900x600-1.webp
+image: /assets/images/PI-no-ragrets-900x600-1.webp
 tags: [mailchimp]
 ---
 
@@ -18,7 +18,7 @@ And big thanks to Bhavin, for suggesting the newsletter to begin with!
 
 Last time, I wrote about the mistakes I made. We’re ending positive, however. I think I did some things well and am overall happy with the decision to do this.
 
-<img src="{{ site.baseurl }}/assets/images/PI-no-ragrets-900x600-1.jpg" alt="No ragrets neck tattoo image">
+<img src="{{ site.baseurl }}/assets/images/PI-no-ragrets-900x600-1.webp" alt="No ragrets neck tattoo image">
 
 Here is more on that!
 
