@@ -44,7 +44,7 @@ Now, I am sure some people would argue that the best way to succeed is to make i
 
 **I extroverted**
 
-I knew, going into this, that in order to give this the best chance of being successful, I was going to have to do things that are socially uncomfortable and even scary: tell people about my project, ask for favors, go to networking events. This was indeed uncomfortable, but I am glad I have exercised this muscle and am no longer afraid.
+I knew, going into this, that in order to give this the best chance of being successful, I was going to have to do things that are socially uncomfortable and even scary: tell people about my project, ask for favors, go to networking events. This was indeed uncomfortable, but I am glad I have exercised this muscle and am less afraid.
 
 I also met incredible people–many of the people on this email list, in fact. According to my Zoom logs, just digititally I met with over 150 new people! It is rare, working in my normal capacity, that I would talk to that many new people in a year.
 
