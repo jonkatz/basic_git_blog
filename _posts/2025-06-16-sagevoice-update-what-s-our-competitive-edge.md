@@ -1,0 +1,123 @@
+---
+title: " What's our competitive edge?"
+date: 2025-06-16 11:48:00
+categories: [newsletter]
+tags: [mailchimp]
+---
+
+Hey There,
+
+How are you? (I’m actually asking, not just being polite).
+
+I think the main news of last week is that I got a concussion from hitting my head on the ceiling of our temporary house.
+
+![d431e608-b3a0-3fc5-d1d4-c01515f98255.png](/assets/images/d431e608-b3a0-3fc5-d1d4-c01515f98255.png)
+
+I was out of commission for over a day. I resented missing work, but I probably haven’t lain in bed awake, with no distractions for so long since I was a baby, so that was actually nice.
+
+## Let’s talk about moats!
+
+I’ve talked a little before about being a small fish and therefore looking for a small pond with less competition. But even in a small pond, there is competition and when you’re raising money, or even just trying to thrive as a digital business, it is important to have long-term, sustainable differentiation.  Essentially this is a fancy way of saying “competitive advantage”.  These are even more casually called “moats”. In the brick and mortar world, your primary moat can be geographic (a barber shop is only competing with other local barber shops). However, in software, there is nothing stopping the best company from getting all the customers.
+
+I haven’t thought about this much yet, because you don’t need a moat until there’s something in the castle you need to protect. But it’s definitely on the horizon.
+
+There are [5-15](https://reactionwheel.net/2019/09/a-taxonomy-of-moats.html) moat categories, depending on how you count them. I think [this categorization](https://quartr.com/insights/edge/diving-deep-into-helmers-7-powers-using-company-examples) is pretty accessible. I won’t bore you with all of them, but they range from regulatory (government granted monopolies like your local water utility is a good example) to cultural (think of Apple’s famous design culture).
+
+What are SageVoice’s moat(s)? The honest answer, today, is that we don’t yet know what our defining moat(s) will be.  Obvious ones at this stage might be:
+
+1. We are a team of clinical researchers so we have unique client insights. (OneMedical?)
+2. We have an AI expert who has crafted a new algorithm that is superior (google).
+3. We are going to create a platform that mediates between other parties, creating a network effect (uber, facebook, ebay)
+
+As you can see from #3, at this stage it’s okay to have a moat that isn’t built yet.
+
+![a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg](/assets/images/a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg)
+
+## What are our planned moats?
+
+Solid:
+
+- Intellectual property: If we build highly specific, complex phone interview protocols that take sweat to develop, that creates a natural moat because it’s very hard to do. The further our use case is from a standard customer service phone call, the better.  Building a cognitive diagnostic, which is highly complex, is a great example of this.
+
+Obvious potential:
+
+- Regulatory: there is an incumbent advantage in highly regulated industries like medicine or government.  If it takes a lot of effort to get approved, then that becomes a nice mini-moat.  Right now, it’s working against us, but we can count on it working in our favor once we’re adopted.
+- Data: All startups say that if they get enough traction, they will have data and that will help them have better AI, better insights, etc. It’s a scale play. I think this is a viable one.
+- Process/Culture/DNA: ideally we can bring on folks with strong research or AI capabilities that will then give us an edge.
+
+Other moats are possible, but aren’t as obvious, such as trying to become the platform on which researchers plug all their other tools into. These are great if you have the right hook–I don’t think that’s the play here.
+
+Any ideas from you all??
+
+## Last week
+
+- **Market Exploration and Development.**
+
+  - Bite-sized demos
+
+    - To support upcoming outreach, we upgraded our homepage demo and changed it to be around patient recruitment. It is now much more responsive than it was. You can try it here: https://www.sagevoice.ai/
+    - We also put together a rough 5 minute demo that we’re going to edit down this coming week. 1 use case is presentation at a “future-of-research”-type talk at an upcoming conference. Another is simply sharing with our outbound outreach. For anyone who is wondering what the hell we’re building, you can see a short, rough version here: [BTACT FORM A - Google Docs - 12 June 2025](https://www.loom.com/share/f85d2a3bd1a44c21b67a450ef52c1758?sid=c5defefa-da8c-435a-8514-7c633693b0c2)
+
+- We didn’t make much progress in terms of outreach:
+
+  - We sent some slides and a 1-pager to a warm lead Hugo brought
+
+- I’m hoping to start veering a bit away from pilot dev work to put more time into this space in the coming weeks.
+
+- **Product Development**
+
+  - **Pilot prep:**
+
+    - There are a number of issues we had to  tackle around prompt engineering fixes. Moving from Anthropic to Google’s LLM led to some hiccups that we just have to surface and then tackle.
+    - We got it so that we can run 8 test bots at a time against our infrastructure, which is great and helps us surface issues faster.
+
+  - **Supporting sales**
+
+    - Saalem is making our dashboard much more functional. Here are some screenshots below (all with testing data).  It’s still not beautiful, but it is getting capabilities we know we need.
+
+![80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg](/assets/images/80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg)
+
+![d7125e32-5a45-086f-bfe4-0f63995bd307.png](/assets/images/d7125e32-5a45-086f-bfe4-0f63995bd307.png)
+
+- **Misc:** We upgraded our login protocol to stay compliant with HIPAA.  Thanks, Abhijit!
+
+## This week
+
+- **Market Exploration and Development.**
+
+  - Bite-sized demos
+
+    - Refining the 5 minute one for the upcoming talk
+    - Creating a 30-60 second one for outbound
+
+  - Circling back to dormant conversations
+
+- **Product Development**
+
+  - **Pilot prep:** We’ve polished 2 of the 7 tasks for the cognitive assessment and the rest are in pretty good shape, but need polishing.  My goal is to put together a “state-of-the-pilot video” for the end of the week.
+  - **HIPAA compliance**- we made some stack changes that require some upgrades to ensure we continue to follow best practices. These aren’t practically relevant today. For example, our new password creation doesn’t enforce long passwords.
+  - Are you getting bored of seeing the same categories each time? I’m not, because the actual work remains different, but curious if this section is annoying for you. You probably just skip over this, right?
+
+## Media Generation of the Week
+
+This week, I got access to Veo3, through my ‘stock image’ subscription (FreePik) and it is unbelievable.
+
+Last week I wrote:
+
+_While we wait for Veo3 the latest and greatest video generation tool to become more widely available (it’s currently $130 a month), I played around with what we have, inserting my new adorable “Sage” into a favorite movie moment of mine:_
+
+It isn’t very good:
+
+![094aec23-ba52-0551-93e1-b57ba6c46a19.png](/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png)
+
+For the last video, I had to seed it with an image from Empire Strikes back and my “Sage” bot and it de-volved from there. It took 2 prompts to get what you saw.
+
+For this video, I just gave this prompt..
+
+_darth vader is in empire strikes back and his theme song is playing.  He gets off his chair and takes off his helmet. Underneath his helmet, there is an adorable robot there. It has a round white head, a blue pompom on top of a single, centered antenae and blue earmuff type things on it's ears (the earmuffs are not connected)_
+
+This is mind boggling to me:
+
+![1d63e7c04b1a267247c20be0bbc1bd70.png](/assets/images/1d63e7c04b1a267247c20be0bbc1bd70.png)
+
+**As always, questions/feedback/advice on the process or even this email is welcome!**

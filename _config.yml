@@ -1,8 +1,10 @@
 # Site settings
 locale: en-US
-title: "Your Blog Title"
-name: "Your Name"
-description: "Notes, essays, and updates"
+title: "A place to put things"
+subtitle: '"Just papers, uh, you know, my papers, business papers..."'
+title_separator: "|"
+name: "Just papers, uh, you know, my papers, business papers..."
+description: "posts I write, largely about my failed startup SageVoice"
 url: "" # set to https://<username>.github.io or your custom domain
 baseurl: "" # no trailing slash
 
@@ -25,20 +27,20 @@ plugins:
   - jekyll-remote-theme
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 
 # Author profile
 author:
-  name: "Your Name"
-  bio: "Short bio goes here."
+  name: "Jon"
+  bio: ""
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:you@example.com"
+      url: "mailto:jonkatzmail@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/<username>"
+      url: "https://github.com/jonkatz"
 
 # Footer links
 footer:
@@ -55,4 +57,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
+      show_date: true
       share: true

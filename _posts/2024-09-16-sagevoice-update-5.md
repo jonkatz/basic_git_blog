@@ -1,0 +1,58 @@
+---
+title: "Sagevoice update #5"
+date: 2024-09-16 11:08:00
+categories: [newsletter]
+tags: [mailchimp]
+---
+
+# It’s alllliiiive!
+
+Hey there,
+
+I hope you had a stupendous weekend.  SageVoice as an mvp has been live for awhile..but now Sagevoice is in a place where a stranger could find the site, sign up, pay and expect an actual product.
+
+**Context**
+
+As a reminder, SageVoice uses AI + voice to solve for the caregiver gap in eldercare. The primary aim is to eventually offer a social companion to support seniors who are socially isolated, but I’m exploring a couple of paths to get there.
+
+My goals for September are to build a new prototype/use case, start testing it, and apply for an accelerator.
+
+**Last week**
+
+It was a great week in which I wrapped up a number of streams:
+
+* Finished the scheduling functionality.  You can now set up the service to call at specific times:
+
+![900251b9-e895-5756-d697-36ea27319fcb.png](/assets/images/900251b9-e895-5756-d697-36ea27319fcb.png)
+
+
+
+* Finished migrating the website from squarespace to webflow.  The new website is [here](https://www.sagevoice.pro/), with different landing pages for different offerings ([parent’s story,](https://www.sagevoice.pro/parent-story) [your story](https://www.sagevoice.pro/story), [monitor your parent](https://www.sagevoice.pro/check-ins-monitor)).  I’d love feedback on the site/messaging here.
+
+  + This was necessary to give people account settings like the image above
+* Added payments, so you can actually “buy” SageVoice now
+* Started a google ad campaign to drive traffic.  This is not yet generating any solid traffic, but here is an example of what an ad might look like:
+
+![c1e40d95-b41f-e03a-0ab3-9583e09647ca.png](/assets/images/c1e40d95-b41f-e03a-0ab3-9583e09647ca.png)
+
+
+
+Note: This ad sucks. What happens with google ads is that you create a number of pieces of text, they combine them and test the combinations.  I’ll have to spend time figuring out the right messaging.
+
+**This week**
+
+The primary theme of this week is going to be learning
+
+* Now that I have this new “monitor” use case and scheduling functionality, I want to have people try it.  If you would be willing to try it yourself or for your parents, let me know!! (or visit the site, pick a product and here is a code to use it for free: BETATESTER)
+* Learn from what happens when strangers click on ads and visit the site.  I’ll share some data next week!
+* Talk to VCs on Wednesday? (they pushed it back)
+* Also: starting to prep my application for the accelerator
+
+**Mental update**
+
+If you made it this far, you get the juicy stuff. I’m two months in and starting to see some unhealthy patterns. I have been working till bedtime and go to bed vibrating with things I want to finish or investigate.  It’s affecting my sleep.  I’m going to try and set better boundaries.
+
+Jon
+
+*Copyright (C) \*|CURRENT\_YEAR|\* \*|LIST:COMPANY|\*. All rights reserved.*  
+[subscribe]() or [unsubscribe]()

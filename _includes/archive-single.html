@@ -1,0 +1,57 @@
+{% if include.type == "grid" %} {% capture archive__item_class
+%}archive__item--{{ include.type }}{% endcapture %} {% endif %}
+
+<div
+  class="list__item"
+  style="margin-bottom: 2em; max-width: none; width: 100%"
+>
+  <article
+    class="archive__item {{ archive__item_class }}"
+    itemscope
+    itemtype="https://schema.org/CreativeWork"
+    style="max-width: none; width: 100%"
+  >
+    {% if post.show_date != false and post.date %}
+    <p class="page__meta" style="margin-bottom: 0.25em">
+      <time
+        datetime="{{ post.date | date_to_xmlschema }}"
+        itemprop="datePublished"
+        style="font-size: 125%"
+      >
+        {{ post.date | date: "%B %-d, %Y" }}
+      </time>
+    </p>
+    {% endif %}
+
+    <h2
+      class="archive__item-title no_toc"
+      itemprop="headline"
+      style="margin: 0; max-width: none; width: 100%"
+    >
+      <a
+        href="{{ post.url | relative_url }}"
+        rel="permalink"
+        style="
+          white-space: normal;
+          word-break: normal;
+          overflow-wrap: normal;
+          display: inline-block;
+          max-width: 100%;
+        "
+        >{{ post.title }}
+      </a>
+    </h2>
+
+    <p class="page__meta">
+      {% if post.read_time %}
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+
+        {% assign read_time = post.content | number_of_words | divided_by: 200 |
+        plus: 1 %} {% if read_time > 0 %} {{ read_time }} minute read {% endif
+        %}
+      </span>
+      {% endif %}
+    </p>
+  </article>
+</div>

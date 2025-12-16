@@ -1,0 +1,114 @@
+View this email in your browser (*|ARCHIVE|*)
+Logo
+
+
+** HIPAA HIPAA Hooray!
+------------------------------------------------------------
+
+Cheesy puns are here to stay!
+
+
+** Thanks for opening the email, despite the pun.
+------------------------------------------------------------
+
+
+** Reminder: SageVoice value proposition
+------------------------------------------------------------
+
+We solve interviewing subjects at scale, for clinical researchers, by offering structured interviews using AI-enabled telephone calls.
+
+
+** Reminder: Current Goals:
+------------------------------------------------------------
+1. Successful academic pilots (wrapping up small one, 2nd starting in May, third in August)
+2. Figure out a path to first revenue (pharma–academic timeline is longer than I hoped).  This path will determine next steps.
+
+
+** With frontend data access, we’re HIPAA Compliant
+------------------------------------------------------------
+
+This week I finished a secure website for storing and sharing patient data! I had previously been emailing transcripts to my clients, along with links to recordings. For obvious HIPAA reasons, I need to make sure that nothing is accessible without authorization. I’m pretty excited that using AWS Amplify and Cognito, I was able to stand up a simple website with rigid security.  I’ve never worked with REACT or TypeScript before, so this was fun.
+
+The website gives upload/download access to AWS storage buckets, where patient data is being held.  It looks like this.
+
+Multi-factor authentication!
+
+Browse files
+
+Download!
+
+SageVoice is now fully HIPAA compliant!
+
+
+** Pharma: an intriguing buffet of entry points
+------------------------------------------------------------
+
+I’m starting to research and have conversations about pharma in earnest.  It’s always fun when you start looking at an industry for the first time.  You start with a pretty atomized perspective: “Pharmaceuticals”. And then the more you learn, the more complicated it is. I kind of love this aspect.
+
+What I’m finding are multiple potential entry points.
+
+I started working with single-site research (see image below).  This is where the person running the entire thing is a Principal Investigator at a hospital or university. This is a relatively straightforward case with few players.  The hearts represent the key stakeholders.  At some point you want to get in at the site-level, because that scales better, but it’s easier to do that when individual labs are already using the software.
+
+BUT, with large clinical trials, the research, regulation and ecosystem are much more complicated. In the image below, the research site I have above is just one of many players.
+
+Here, the “pharmaceutical” company, often outsources some or all of the actual running of the trials to companies that specialize in this (CROs).  Those then partner with sites or outsource the work to site management organizations (SMOs). The extent to which these intermediaries (CROs and SMOs) make decisions, seem to vary a lot.  Each of them in turn, either build software in house or hire vendors to help with various aspects like recruiting study participants.
+
+And I don’t know how accurate the above is.
+
+So if I’m selling software to help with clinical trials, I have a lot of questions. Maybe this is 101 for someone else.
+
+* Do you sell to the pharmaceutical, the CRO, the SMO, or the clinical sites?
++ It’s going to be different if you’re collecting data v. recruiting participants, which is different from screening participants.
+* Which of these organizations are glad to buy your product v. see you as a competitor to their own offering?
++ The bigger the organization, the more likely it is they want to do it in-house.
+* Once you figure out an organization, who do you talk to within the organization?
++ Which role?
++ Some pharmaceutical companies have innovation hubs. Do you start there or start with folks who are feeling the pain directly?
+
+Anyway, this is where I am on the journey: more questions than I had before.  I think this is good.
+
+
+** Last week
+------------------------------------------------------------
+* Market Development
++ Deep and wide dive into “pharma”.
+o The stage here is the basic desk research. I made some headway, as you can see above.
+o The second stage is to conduct some interviews and make some industry connections…I’ve started outreach.
+
+* Product Development:
++ Last week, the service I rely on for key infrastructure was down twice, for many hours at a time. This was caused, in turn, by one of their vendors.  They are looking at alternative vendors, as am I.
++ Upgraded the service to fix up some aberrant issues
+* HIPAA/Privacy
++ Built a secure way for customers to upload patient data and retrieve transcripts.  This was the last big pole in the HIPAA tent. (see above)
+
+
+** This week
+(last time, there was a copy paste error here.  Apologies to those who noticed and were scratching your heads!)
+------------------------------------------------------------
+* Market Development
++ Deep and wide dive into “pharma”.
+o 1 interview this week
+o My goal is to set up 5 expert interviews for next week.
++ Think creatively about academia:
+o Maybe there is a way to bypass academic grant timelines by targeting other budget lines- I have a follow up with Berkeley’s school of public health and will dig into this with them. (Great ideas here from Venki)
++ Look into accelerators/innovation labs
+o Now that I’m in a different field, I want to understand what the options are here.  An accelerator that puts me in touch with industry would be very helpful.
++ NOT this week
+o I want to run the current model by a potential funder to see what they think/what is missing.
+* Product development
++ I want to limit that this week, since it is always more appealing than outreach.
++ Minor
+o Testing
+o Fix for a rare, but bad audio issue and some weird verbiage that pops up sometimes.
+
+
+** Media Generation of the Week
+------------------------------------------------------------
+
+Two of the new capabilities of the latest AI image models are consistency across images (same character rendered multiple times) and copyright infringement.  Both of these make marketing imagery much more fun.
+
+For instance, I have always wanted to make comics, but my drawing isn’t there.  Last night I was able, with just a few retries and editing to create a Garfield-like comic about SageVoice. This was a 1 minute thought exercise and fun to see come alive.  I think it would be fun to put more thought in and create a bunch of these.
+
+Mondays, am I right?
+
+As always, questions/feedback/advice on the process or even this email is welcome!

@@ -1,0 +1,63 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+https://www.sagevoice.pro
+
+
+** Spooktober is all about making this product less scary.
+------------------------------------------------------------
+
+Context
+
+As a reminder, SageVoice uses AI + voice to solve for the caregiver gap in eldercare. The primary aim is to eventually offer a social companion to support seniors who are socially isolated, but I’m exploring a couple of paths to get there.
+
+Weird stock photo of the week
+
+In the next Newsletter, I need to share more about stock photos…I find the process of finding them to be consistently surprising and delightful.
+https://sagevoice.pro
+
+In the next Newsletter, I need to share more about stock photos…I find the process of finding them to be consistently surprising and delightful.
+
+In the news
+
+One thing that this company is banking on is the increasing improvement of AI and voice technology over the coming years.  An example I’ve been waiting on since May seems closer than ever.  If you have ChatGPT premium you should have their new voice service available now.
+
+It is a vast improvement over the tools I’m using today.  They haven’t made the API available to external developers (like me) yet, but when they do, it should make the product better.  Here’s a demo (https://www.youtube.com/watch?v=GiEsyOyk1m4&ab_channel=OpenAI) from the May announcement.
+
+Reflecting on September
+
+From a previous email:
+
+My goals for September are to build a new prototype/use case, start testing it, and apply for an accelerator.
+
+We’re at the end of September and those things happened!
+
+The problem with having output goals (did I do the action?), rather than outcomes, is that the former can be true without actual success. So in October I’m going to mix it up
+
+October Goals
+* Identify effective messaging/hooks for trying the product. It’s clear I have an onboarding problem. The problem is real, the solution is effective, but folks are understandably wary  (By the end of year, I want to have solved for this).
+* Better understand senior residence needs by talking to people at 3 institutions.
+* Action: Apply to another accelerator via a pitch competition (AARP’s AgeTech Collaborative)
+
+Quick thanks
+
+Shout out to Zeph Landau for his great feedback/suggestions and putting me in touch with a relative who is turning out to be an interesting and engaged early user.
+
+Ask of you
+
+If you have a lonely loved-one, but don’t want them to try the products (1 (https://www.sagevoice.pro/parent-story) ,2 (https://www.sagevoice.pro/check-ins-monitor) ) or don’t want to bring it up: Why not? I both get it and need to better understand the primary blockers here.
+
+Last Week
+* Submitted an application to the Matter Health tech accelerator.  I’ll find out by the end of October.
+* In light of feedback and folks dropping off at purchase, started making content around “what does this look like?”:
+
+* Connected with 3 subject matter experts (in the voice-eldercare space).
+
+This week
+* Messaging on site
++ Publish the “what does this look like” content. Video!
++ Making changes to the site and product based on some user feedback.
+* Start working on a pitch contest application (Due October 10th)
+* Setup some interviews around caregiver blockers/messaging
+
+As always, questions/feedback/advice on the process or even this email is welcome!

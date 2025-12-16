@@ -1,0 +1,110 @@
+View this email in your browser (*|ARCHIVE|*)
+Logo
+
+Hi,
+
+Happy belated Mother’s Day to you mothers! I hope everyone had a great weekend. My wife (a mother) requested a day without having to do any logistics or make decisions, which was a great ask, and maybe says something about ways I could step up in general. FWIW, I also enjoyed making unilateral decisions.
+
+
+** Reminder:
+Our value proposition,
+------------------------------------------------------------
+
+We solve interviewing subjects at scale, for clinical researchers, by offering structured interviews using AI-enabled telephone calls.
+
+For go-to-market, we’re focusing first on:
+
+We solve data collection, for clinical trials, by offering structured interviews using AI-enabled telephone calls.
+
+
+** May Goals
+------------------------------------------------------------
+1. My top objective for May is to find a new pilot in academia or pharma (see below).
+2. My secondary objective is to figure out the path to market for pharmaceutical clinical trials, via  customer discovery in that space–the two are somewhat related.
+
+
+** The big news is that I lost a pilot last week
+------------------------------------------------------------
+
+This would have been a big one (for SageVoice). It was 250 patients, getting weekly calls about their diet and behavior changes. It was supposed to START last week.
+
+The reason it was pulled suddenly is that the study participants were being recruited through a church organization and the community leaders pushed back on the idea of exposing their congregants to AI.
+
+The researcher 100% should have flagged this earlier and was very apologetic.
+
+
+** Will this work?
+------------------------------------------------------------
+
+Losing such a potential proof point (the pilot) is a problem. Indeed it reinforces what I learned in the previous iteration and from the current one: there are a lot of stakeholders who think talking to an AI on the phone will be ineffective and/or alienating. This is certainly discouraging, but I think it’s clear that we’re just at the beginning of a massive change and it’s a matter of finding the early adopters.
+
+There are several reasons for thinking this:
+* There are already a handful of patient-facing AI phone call offerings that are achieving significant volume across a variety of healthcare/research areas.
+* This is already better than IVR (automated phone systems).
+* This works better than people think it will. It feels like magic. For example, some folks at the Columbia pilot starting in July were starting to doubt that the bot would be able to deliver. I shared a demo of what we have so far, and they were surprised and delighted and surprised by how well it’s coming along.
+
+I am very confident that this is going to be a thing, but I haven’t validated the details: (can this happen now at scale, will it be profitable, does it require an existing foothold, etc)? I gave myself till the end of July to find revenue or traction so I’m very much feeling the pressure to get some answers.
+
+So, in addition to exploring the shape of demand in pharma, I’m in search of a replacement pilot in either pharma or academia. Let me know if you know anyone who would be good to talk to!
+
+
+** I’m doing a trial run with a potential technical cofounder
+------------------------------------------------------------
+
+Pallav, who introduced me to my primary pilot lab 🙏, has now introduced me to an experienced engineer who is just coming out of a series of healthcare startups. I’ve been talking with him and he is building up SageVoice capabilities cleanly from the ground up. With him working on it, I feel a lot less pressure to build and have been focusing on outreach. It’s early days, but if things go well, he’ll pass me in a little while and I can just move over to his version.
+
+If this works, it would be huge, allowing me to further prioritize the primary challenge: customer discovery and outreach.
+
+Pallav, if this works out, I owe you bigtime. I’m putting it in writing.
+
+
+** Last two weeks
+------------------------------------------------------------
+* Market Exploration and Development. LOTS of action, no wins yet.
++ I was aiming to line up 10 interviews last week and I lined up 4. It’s slow going. 20+ folks on LinkedIn, led to 3 new bites. I gotta work on my messaging again?
++ I also started reaching out to potential new pilot folks. That was another 20 emails and no bites so far. Some feedback I’ve gotten is that by targeting researchers who have clinical trials, I’m getting them too late: they’ve already chosen their tools. I need a way to find people earlier in their process.
++ Ryan suggested using Apollo, which lets you do outreach at scale and I tried that a little this week...it has emails for folks so you can automate the sending more. I suspect that the high volume leads to lower rates, but it still might be more productive.
++ Lastly, I started posting on LinkedIn. The hope is that:
+1. People will read and have advice or know people
+2. People learn about SageVoice and think of it when there’s a fit for an actual project
+3. Folks I send cold linked-ins to will have some content to read, maybe lend some credibility to it.
+
+I find this so intensely stressful. You’re a tight circle of people, you’re cool. Posting in public is something else… I think most LinkedIn posts are obnoxiously self-congratulatory, but I also don’t want to focus on failure either. I’m being me and hoping authenticity will lead to good results.
+* Product development- building diagnostic capabilities
++ To force myself to focus on market exploration, I didn’t really touch the product the first week.
++ The second week, as I mentioned above, a client asked me to provide a demo, so I spent a few days working on what is needed for them. It’s a cognitive diagnostic and I’ll share it when it’s done. It’s pretty amazing what the AI can do in terms of both delivering an interview/ test and scoring it.
+* Building a company
++ Working with potential cofounder, some back and forth
++ Answered a 250 question form as part of the process of getting approved by Columbia University Medical Center as a vendor…
+
+
+** This week
+------------------------------------------------------------
+* Market Exploration and Development.
++ Goal: 10 interviews/leads a week.
++ Actions:
+o Conduct 3 expert/customer interviews (already scheduled)
+o 30 outreach emails/day and linked in Monday-Thursday
+o 2 LinkedIn posts?
+* Product development- more diagnostic capabilities
++ I have another demo scheduled for the primary skeptic at Columbia– the expectation is that we will polish out the rough edges on the diagnostic we showed on Friday
++ If Columbia’s IT/IRB process has new requirements I’ll look into those.
+
+
+** Media Generation of the Week
+------------------------------------------------------------
+
+I mentioned overdoing the media generation last week. This section started with stock photography and so I want to go back to that for a minute by honoring peak stock photography usage.
+
+It’s an instagram/twitter/X account called punhub (https://x.com/PunHubOnline/photo) and they use stock images as the backdrop for pun-based jokes. Puns ARE the lowest form of humor (I will die on that hill), but this account brings them to their ceiling.
+
+Here are a few of my favorites:
+https://x.com/PunHubOnline/status/1712184638381363414/photo/1
+
+https://x.com/PunHubOnline/status/1610310499882733569/photo/1
+
+https://x.com/PunHubOnline/status/1712184638381363414/photo/1
+
+So good.
+
+As always, questions/feedback/advice on the process or even this email is welcome!
