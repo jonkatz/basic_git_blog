@@ -2,6 +2,8 @@
 title: "SageVoice Post-Mortem (2 of 2): What went right?"
 date: 2025-10-24 09:45:00
 categories: [newsletter]
+header:
+  og_image: /assets/images/PI-no-ragrets-900x600-1.jpg
 tags: [mailchimp]
 ---
 
