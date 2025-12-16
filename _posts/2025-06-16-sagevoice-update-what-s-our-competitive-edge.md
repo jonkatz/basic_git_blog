@@ -108,7 +108,7 @@ _While we wait for Veo3 the latest and greatest video generation tool to become 
 
 It isn’t very good:
 
-<img src="{{ site.baseurl }}/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png" alt="094aec23-ba52-0551-93e1-b57ba6c46a19.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oij4KgZVm8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For the last video, I had to seed it with an image from Empire Strikes back and my “Sage” bot and it de-volved from there. It took 2 prompts to get what you saw.
 
@@ -118,6 +118,6 @@ _darth vader is in empire strikes back and his theme song is playing.  He gets 
 
 This is mind boggling to me:
 
-<img src="{{ site.baseurl }}/assets/images/1d63e7c04b1a267247c20be0bbc1bd70.png" alt="1d63e7c04b1a267247c20be0bbc1bd70.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMFrQkO6wb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

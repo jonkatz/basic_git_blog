@@ -158,6 +158,6 @@ That’s what I have for now! Despite the focus of this email being failure, I a
 
 I’ll talk about that more next time.
 
-<img src="{{ site.baseurl }}/assets/images/88d3263bbf4f70b645ff1e8227d6faf2.png" alt="88d3263bbf4f70b645ff1e8227d6faf2.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3o8Cygx1EU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the meantime, if you have any specific questions about what went wrong or have another angle I should consider.  Please let me know!

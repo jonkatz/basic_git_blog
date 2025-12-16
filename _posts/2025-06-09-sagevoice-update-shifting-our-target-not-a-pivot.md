@@ -89,7 +89,7 @@ For anyone who remembers the options, it’s this one:
 
 While we wait for Veo3 the latest and greatest video generation tool to become more widely available (it’s currently $130 a month), I played around with what we have, inserting my new adorable “Sage” into a favorite movie moment of mine:
 
-<img src="{{ site.baseurl }}/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png" alt="094aec23-ba52-0551-93e1-b57ba6c46a19.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oij4KgZVm8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pretty exciting, reveal, right?
 

@@ -105,11 +105,11 @@ _A tense newsroom scene unfolds as the reporter in blue (on the right), visibly 
 
 This worked pretty well:
 
-<img src="{{ site.baseurl }}/assets/images/9bc62d47dd6af4bd888b83b1122825d7.png" alt="9bc62d47dd6af4bd888b83b1122825d7.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zIjO62unY0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 They offer a lip-syncing option, which did _not_ perform well.
 
-<img src="{{ site.baseurl }}/assets/images/061df5ae775097873f5f31f623a20c9f.png" alt="061df5ae775097873f5f31f623a20c9f.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smswLkHUf4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I tried again. I started with this image of Trump and Putin dishing about strongman stuff and made it into video.
 
@@ -123,7 +123,7 @@ _I think if we all dig deep within ourselves we'll find that we are made of love
 
 Not so great.
 
-<img src="{{ site.baseurl }}/assets/images/cc251912ee0d44164dc18cfb7a59782e.png" alt="cc251912ee0d44164dc18cfb7a59782e.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9lMeEXTfKAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So… cheap AI lip syncing out of the box on your first 2 tries: not there yet.
 

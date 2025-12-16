@@ -70,9 +70,7 @@ I figured I’d quickly create an avatar for you to see, but I haven’t integra
 
 I made this last night in less than 15 minutes. I gave it a script to read, but in the future, it could be responding to what the user said or an expression they made in the video.
 
-<img src="{{ site.baseurl }}/assets/images/66d7da32-9176-1cef-3402-e41e3b416a16.png" alt="66d7da32-9176-1cef-3402-e41e3b416a16.png">
-
-<img src="{{ site.baseurl }}/assets/images/71e5aaaa75da303de7988928da99197b.png" alt="71e5aaaa75da303de7988928da99197b.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b45qziaBaQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I personally think the AI camera adds about 15 pounds…
 

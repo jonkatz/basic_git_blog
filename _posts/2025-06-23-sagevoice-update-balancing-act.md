@@ -39,7 +39,7 @@ Our upcoming pilot is tough. It’s a cognitive diagnostic that needs to be scor
 
     - Created a 2 minute demo for outbound.  Check it out:
 
-<img src="{{ site.baseurl }}/assets/images/e39810f2628173955a1baef56b3c0296.png" alt="SageVoice: How it works">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axTbiforVZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Circled back to dormant conversations…which all remained dormant.
 
@@ -75,15 +75,15 @@ Remember this comic I made?
 
 In the first one I didn’t realize you could tell it what to say!  So I just had it “face the camera and say something”. That led to this (prompts in the links):
 
-<img src="{{ site.baseurl }}/assets/images/79de9e531c2f8d06fd45de70b20aafba.png" alt="79de9e531c2f8d06fd45de70b20aafba.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ei6eyJY25vU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I made my nose bigger in the second one and told it what to say, but it split it across me and the bot:
 
-<img src="{{ site.baseurl }}/assets/images/32526a34c0dc98a9f3e5e2157668d23e.png" alt="32526a34c0dc98a9f3e5e2157668d23e.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGquZziTYhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Last one, I told it to do this with a “curb your enthusiasm vibe” and got this weirdness. It’s definitely kind of silly. I’m disappointed we didn’t get the themesong.
 
-<img src="{{ site.baseurl }}/assets/images/eaf19029f2db6f0a386028b3a08d8eca.png" alt="eaf19029f2db6f0a386028b3a08d8eca.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePFCAB2cKHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Stay cool!
 
