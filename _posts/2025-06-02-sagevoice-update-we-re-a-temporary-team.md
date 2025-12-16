@@ -11,11 +11,11 @@ It’s been two calendar weeks, but we were camping and then moving, so it feels
 
 Here’s a wholesome pic from our campout.
 
-![4300f14b-6f76-e927-cfbf-c785cd0e6f1a.png](/assets/images/4300f14b-6f76-e927-cfbf-c785cd0e6f1a.png)
+<img src="{{ site.baseurl }}/assets/images/4300f14b-6f76-e927-cfbf-c785cd0e6f1a.png" alt="4300f14b-6f76-e927-cfbf-c785cd0e6f1a.png">
 
 And of the DVDs I just gave to goodwill. Yes, I had and, they still accept, DVDs.
 
-![a3e8ee12-431c-150f-dd29-0a87dd14074a.jpg](/assets/images/a3e8ee12-431c-150f-dd29-0a87dd14074a.jpg)
+<img src="{{ site.baseurl }}/assets/images/a3e8ee12-431c-150f-dd29-0a87dd14074a.jpg" alt="a3e8ee12-431c-150f-dd29-0a87dd14074a.jpg">
 
 And…I just realized that I donated a 1990’s home video to Goodwill. 🤦‍♂️ (Costco doesn’t make movies, right?) The blanked out one is politically polarizing…but if you email me directly I’ll tell you what it was. I didn’t even watch it!
 
@@ -40,7 +40,7 @@ I don’t want to name our potential summer intern yet, since we just started ta
 
 There are two immediate things that have to go right for this company to thrive.
 
-![bb38b448-7ba6-b471-f37d-c9c8975c491f.gif](/assets/images/bb38b448-7ba6-b471-f37d-c9c8975c491f.gif)
+<img src="{{ site.baseurl }}/assets/images/bb38b448-7ba6-b471-f37d-c9c8975c491f.gif" alt="bb38b448-7ba6-b471-f37d-c9c8975c491f.gif">
 
 There are two immediate things that have to go right for this company to thrive.
 
@@ -122,12 +122,12 @@ More comics!  I took last week’s “Garfield” style of me and my adorable l
 
 Last week excerpt:
 
-![fc5427b6-5684-0847-f2b3-e27072ee751c.png](/assets/images/fc5427b6-5684-0847-f2b3-e27072ee751c.png)
+<img src="{{ site.baseurl }}/assets/images/fc5427b6-5684-0847-f2b3-e27072ee751c.png" alt="fc5427b6-5684-0847-f2b3-e27072ee751c.png">
 
-![18e8584f-ceab-eed7-eced-c5cb714bfd8a.png](/assets/images/18e8584f-ceab-eed7-eced-c5cb714bfd8a.png)
+<img src="{{ site.baseurl }}/assets/images/18e8584f-ceab-eed7-eced-c5cb714bfd8a.png" alt="18e8584f-ceab-eed7-eced-c5cb714bfd8a.png">
 
 Formatted for elites:
 
-![34dc8c82-1217-5c56-085e-7567848b2df4.png](/assets/images/34dc8c82-1217-5c56-085e-7567848b2df4.png)
+<img src="{{ site.baseurl }}/assets/images/34dc8c82-1217-5c56-085e-7567848b2df4.png" alt="34dc8c82-1217-5c56-085e-7567848b2df4.png">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

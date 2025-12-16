@@ -26,15 +26,15 @@ This week I finished a secure website for storing and sharing patient data! I ha
 
 The website gives upload/download access to AWS storage buckets, where patient data is being held.  It looks like this.
 
-![cbe74bae-eb0c-afe0-5e39-62aa013d1879.jpeg](/assets/images/cbe74bae-eb0c-afe0-5e39-62aa013d1879.jpeg)
+<img src="{{ site.baseurl }}/assets/images/cbe74bae-eb0c-afe0-5e39-62aa013d1879.jpeg" alt="cbe74bae-eb0c-afe0-5e39-62aa013d1879.jpeg">
 
 _Multi-factor authentication!_
 
-![0bae2b84-1cfd-228d-3946-607f36b4c736.png](/assets/images/0bae2b84-1cfd-228d-3946-607f36b4c736.png)
+<img src="{{ site.baseurl }}/assets/images/0bae2b84-1cfd-228d-3946-607f36b4c736.png" alt="0bae2b84-1cfd-228d-3946-607f36b4c736.png">
 
 _Browse files_
 
-![b1bdf0e5-fa83-4953-be7d-bd5d5fa6a354.png](/assets/images/b1bdf0e5-fa83-4953-be7d-bd5d5fa6a354.png)
+<img src="{{ site.baseurl }}/assets/images/b1bdf0e5-fa83-4953-be7d-bd5d5fa6a354.png" alt="b1bdf0e5-fa83-4953-be7d-bd5d5fa6a354.png">
 
 _Download!_
 
@@ -48,13 +48,13 @@ What I’m finding are multiple potential entry points.
 
 I started working with single-site research (see image below).  This is where the person running the entire thing is a Principal Investigator at a hospital or university. This is a relatively straightforward case with few players.  The hearts represent the key stakeholders.  At some point you want to get in at the site-level, because that scales better, but it’s easier to do that when individual labs are already using the software.
 
-![13125076-d12f-fb2c-d8ae-b07500b440e5.png](/assets/images/13125076-d12f-fb2c-d8ae-b07500b440e5.png)
+<img src="{{ site.baseurl }}/assets/images/13125076-d12f-fb2c-d8ae-b07500b440e5.png" alt="13125076-d12f-fb2c-d8ae-b07500b440e5.png">
 
 BUT, with large clinical trials, the research, regulation and ecosystem are much more complicated. In the image below, the research site I have above is just one of many players.
 
 Here, the “pharmaceutical” company, often outsources some or all of the actual running of the trials to companies that specialize in this (CROs).  Those then partner with sites or outsource the work to site management organizations (SMOs). The extent to which these intermediaries (CROs and SMOs) make decisions, seem to vary a lot.  Each of them in turn, either build software in house or hire vendors to help with various aspects like recruiting study participants.
 
-![ab8d04fa-2f4b-9644-bf3f-cf27efc4c29e.png](/assets/images/ab8d04fa-2f4b-9644-bf3f-cf27efc4c29e.png)
+<img src="{{ site.baseurl }}/assets/images/ab8d04fa-2f4b-9644-bf3f-cf27efc4c29e.png" alt="ab8d04fa-2f4b-9644-bf3f-cf27efc4c29e.png">
 
 And I don’t know how accurate the above is.
 
@@ -128,7 +128,7 @@ Two of the new capabilities of the latest AI image models are consistency across
 
 For instance, I have always wanted to make comics, but my drawing isn’t there.  Last night I was able, with just a few retries and editing to create a Garfield-like comic about SageVoice. This was a 1 minute thought exercise and fun to see come alive.  I think it would be fun to put more thought in and create a bunch of these.
 
-![8496e349-ccee-2824-203b-684817f58751.png](/assets/images/8496e349-ccee-2824-203b-684817f58751.png)
+<img src="{{ site.baseurl }}/assets/images/8496e349-ccee-2824-203b-684817f58751.png" alt="8496e349-ccee-2824-203b-684817f58751.png">
 
 Mondays, am I right?
 

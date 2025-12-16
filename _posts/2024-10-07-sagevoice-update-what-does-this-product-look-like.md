@@ -11,7 +11,7 @@ tags: [mailchimp]
 
 The actual update is past the pictures…
 
-![76da61a6-e28e-10b6-6380-b6b175e25842.jpg](/assets/images/76da61a6-e28e-10b6-6380-b6b175e25842.jpg)
+<img src="{{ site.baseurl }}/assets/images/76da61a6-e28e-10b6-6380-b6b175e25842.jpg" alt="76da61a6-e28e-10b6-6380-b6b175e25842.jpg">
 
 the result of a search: “excited entrepreneur”
 
@@ -28,7 +28,7 @@ What I want to do is just share weird images, but instead here are some take-awa
 - Stock images are cheap: rather than pay per image, there is a subscription model, where for $10 a month, I can download unlimited licensed stock images to use (non-exclusively) in perpetuity.
 - Coverage is broad.  Below is just the top of the first page of results for “Dad looking for Lice”. There are pages of solid results.
 
-![e48a985f-ac69-eee3-0ccb-4d3060dfce7d.png](/assets/images/e48a985f-ac69-eee3-0ccb-4d3060dfce7d.png)
+<img src="{{ site.baseurl }}/assets/images/e48a985f-ac69-eee3-0ccb-4d3060dfce7d.png" alt="e48a985f-ac69-eee3-0ccb-4d3060dfce7d.png">
 
 In case you’re wondering…no, my kids do not have lice (at the moment)
 
@@ -36,7 +36,7 @@ In case you’re wondering…no, my kids do not have lice (at the moment)
 - Once you start looking at stock images, you see the same actors on all your competitors' websites. It’s like when you get a new car and then suddenly you notice that car a lot more. I’ve seen one of my  “grandmas” on other people’s sites fall in love, play catch and be cared for in a nursing home.
 - Every search turns up something delightfully weird. The search “anxious Dad” turns up Dads looking anxious, but also this:
 
-![9cb3978c-2a11-ed12-f9e0-778169f7846c.jpg](/assets/images/9cb3978c-2a11-ed12-f9e0-778169f7846c.jpg)
+<img src="{{ site.baseurl }}/assets/images/9cb3978c-2a11-ed12-f9e0-778169f7846c.jpg" alt="9cb3978c-2a11-ed12-f9e0-778169f7846c.jpg">
 
 **Prioritization:**
 

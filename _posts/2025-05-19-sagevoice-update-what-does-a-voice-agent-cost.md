@@ -24,7 +24,7 @@ Compare this to a paper calendar, and the difference is obvious: someone had to 
 
 Voice AI, currently, is more like a physical good in this regard. Due to the level of computation involved, it requires specialized hardware, new IP, and more energy. The cost of delivering the service is, therefore, measured by the minute. There’s a [recent tweet about this](https://x.com/kwindla/status/1914086659316211982) that Venki shared with me, showing that, on average, the cost per minute is $0.023, or $1.40 an hour. Here’s a link to the [spreadsheet](https://docs.google.com/spreadsheets/d/1-B3nv7fhwEoFmDs-phm280XK9phTep0qfyLKRNsEwVE/edit?gid=0#gid=0).  I think it ends up being more like $3-5 at my scale, particularly if you include hosting and post-processing of calls.
 
-![99be4bec-9d89-9ca1-4636-82d36103e87d.png](/assets/images/99be4bec-9d89-9ca1-4636-82d36103e87d.png)
+<img src="{{ site.baseurl }}/assets/images/99be4bec-9d89-9ca1-4636-82d36103e87d.png" alt="99be4bec-9d89-9ca1-4636-82d36103e87d.png">
 
 What does this mean for SageVoice?  Well it definitely changes how the solution is offered.  For instance, I can’t say “for $X a month, you get unlimited usage”.  I have to charge per minute or hour, because each minute has a significant cost.  The pilot that dropped out, for instance, would have cost me $10k. If I’m competing with human interviewers, $3 cost structure is great. I can charge ½ of what a human interviewer would cost and be a very attractive solution, while earning profit.  If I’m competing against web surveys, which are free at the margins, then it get’s more complicated—I have to offer a much better experience to justify something that would cost more.
 
@@ -94,14 +94,14 @@ Next week is a 3 day week for me, so no update next Monday!
 
 We’re back to comics! I decided that a comic about me and Sage, a spunky little toddler of an AI, would be funny to me, so that is what is happening:
 
-![fc5427b6-5684-0847-f2b3-e27072ee751c.png](/assets/images/fc5427b6-5684-0847-f2b3-e27072ee751c.png)
+<img src="{{ site.baseurl }}/assets/images/fc5427b6-5684-0847-f2b3-e27072ee751c.png" alt="fc5427b6-5684-0847-f2b3-e27072ee751c.png">
 
-![18e8584f-ceab-eed7-eced-c5cb714bfd8a.png](/assets/images/18e8584f-ceab-eed7-eced-c5cb714bfd8a.png)
+<img src="{{ site.baseurl }}/assets/images/18e8584f-ceab-eed7-eced-c5cb714bfd8a.png" alt="18e8584f-ceab-eed7-eced-c5cb714bfd8a.png">
 
-![f9607da1-9c90-fc89-3f2e-0a75ac0ac0fc.png](/assets/images/f9607da1-9c90-fc89-3f2e-0a75ac0ac0fc.png)
+<img src="{{ site.baseurl }}/assets/images/f9607da1-9c90-fc89-3f2e-0a75ac0ac0fc.png" alt="f9607da1-9c90-fc89-3f2e-0a75ac0ac0fc.png">
 
-![20c0d7ed-487b-700e-fcba-93f36bc94674.png](/assets/images/20c0d7ed-487b-700e-fcba-93f36bc94674.png)
+<img src="{{ site.baseurl }}/assets/images/20c0d7ed-487b-700e-fcba-93f36bc94674.png" alt="20c0d7ed-487b-700e-fcba-93f36bc94674.png">
 
-![135d61be-f84e-5757-facb-f7b6276489e8.png](/assets/images/135d61be-f84e-5757-facb-f7b6276489e8.png)
+<img src="{{ site.baseurl }}/assets/images/135d61be-f84e-5757-facb-f7b6276489e8.png" alt="135d61be-f84e-5757-facb-f7b6276489e8.png">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

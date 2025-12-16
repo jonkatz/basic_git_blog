@@ -23,7 +23,7 @@ It was a great week in which I wrapped up a number of streams:
 
 * Finished the scheduling functionality.  You can now set up the service to call at specific times:
 
-![900251b9-e895-5756-d697-36ea27319fcb.png](/assets/images/900251b9-e895-5756-d697-36ea27319fcb.png)
+<img src="{{ site.baseurl }}/assets/images/900251b9-e895-5756-d697-36ea27319fcb.png" alt="900251b9-e895-5756-d697-36ea27319fcb.png">
 
 
 
@@ -33,7 +33,7 @@ It was a great week in which I wrapped up a number of streams:
 * Added payments, so you can actually “buy” SageVoice now
 * Started a google ad campaign to drive traffic.  This is not yet generating any solid traffic, but here is an example of what an ad might look like:
 
-![c1e40d95-b41f-e03a-0ab3-9583e09647ca.png](/assets/images/c1e40d95-b41f-e03a-0ab3-9583e09647ca.png)
+<img src="{{ site.baseurl }}/assets/images/c1e40d95-b41f-e03a-0ab3-9583e09647ca.png" alt="c1e40d95-b41f-e03a-0ab3-9583e09647ca.png">
 
 
 

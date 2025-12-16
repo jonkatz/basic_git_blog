@@ -9,7 +9,7 @@ tags: [mailchimp]
 
 Kids are off school, so I’m out this week. No big plans, just Dadding-it-up around town.
 
-![ebedb18f-5c2f-78c4-05d1-89e4ddbc2750.gif](/assets/images/ebedb18f-5c2f-78c4-05d1-89e4ddbc2750.gif)
+<img src="{{ site.baseurl }}/assets/images/ebedb18f-5c2f-78c4-05d1-89e4ddbc2750.gif" alt="ebedb18f-5c2f-78c4-05d1-89e4ddbc2750.gif">
 
 My 7 year old’s big ambition is eating Jell-O.  We will definitely do that. I wrote this Sunday so that I could be JellO-drunk all week.
 
@@ -25,15 +25,15 @@ Like all future planning, it is a work of speculative fiction, but like all plan
 
 **Stage 2** is proving it works (the IF statement here)
 
-![3fde353e-fb7f-7a7c-c48a-0310f61abd6a.png](/assets/images/3fde353e-fb7f-7a7c-c48a-0310f61abd6a.png)
+<img src="{{ site.baseurl }}/assets/images/3fde353e-fb7f-7a7c-c48a-0310f61abd6a.png" alt="3fde353e-fb7f-7a7c-c48a-0310f61abd6a.png">
 
 **Stage 3** is demonstrating economics and market size (can we get paid and pharma)
 
-![e0257d73-04a9-ccf5-6e09-61fa8b25ed16.png](/assets/images/e0257d73-04a9-ccf5-6e09-61fa8b25ed16.png)
+<img src="{{ site.baseurl }}/assets/images/e0257d73-04a9-ccf5-6e09-61fa8b25ed16.png" alt="e0257d73-04a9-ccf5-6e09-61fa8b25ed16.png">
 
 **Stage 4** is scaling (can we go beyond the first customers)
 
-![bf04fd3c-578e-407e-7280-8c1109e4e28b.png](/assets/images/bf04fd3c-578e-407e-7280-8c1109e4e28b.png)
+<img src="{{ site.baseurl }}/assets/images/bf04fd3c-578e-407e-7280-8c1109e4e28b.png" alt="bf04fd3c-578e-407e-7280-8c1109e4e28b.png">
 
 ## Mental health update
 
@@ -91,23 +91,23 @@ The inevitable, but scary thing is that they took many of the guardrails off aro
 
 Last time I showed you a guy getting a present:
 
-![6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg](/assets/images/6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg)
+<img src="{{ site.baseurl }}/assets/images/6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg" alt="6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg">
 
 and how you could change the race of the men.
 
-![6d3b6e97-0e1f-eb40-ba14-046f32543748.png](/assets/images/6d3b6e97-0e1f-eb40-ba14-046f32543748.png)
+<img src="{{ site.baseurl }}/assets/images/6d3b6e97-0e1f-eb40-ba14-046f32543748.png" alt="6d3b6e97-0e1f-eb40-ba14-046f32543748.png">
 
-![8f1d32cb-377c-82fc-979c-cf923a5ec597.png](/assets/images/8f1d32cb-377c-82fc-979c-cf923a5ec597.png)
+<img src="{{ site.baseurl }}/assets/images/8f1d32cb-377c-82fc-979c-cf923a5ec597.png" alt="8f1d32cb-377c-82fc-979c-cf923a5ec597.png">
 
 With ChatGPT’s new offering, I could take the same original image and replace the old man with Representative Alexandra Ocasio-Cortez:
 
-![2bc6428d-8a39-4b95-ccf7-9ff4f1633ebc.png](/assets/images/2bc6428d-8a39-4b95-ccf7-9ff4f1633ebc.png)
+<img src="{{ site.baseurl }}/assets/images/2bc6428d-8a39-4b95-ccf7-9ff4f1633ebc.png" alt="2bc6428d-8a39-4b95-ccf7-9ff4f1633ebc.png">
 
 And it didn’t stop me from replacing Putin with her. Now…I told it not to change the position or the clothes, which is why it looks a little unnatural, but it’s pretty good for a single shot prompt.
 
-![390d6023-08aa-e171-4487-78aeb2632d4b.jpg](/assets/images/390d6023-08aa-e171-4487-78aeb2632d4b.jpg)
+<img src="{{ site.baseurl }}/assets/images/390d6023-08aa-e171-4487-78aeb2632d4b.jpg" alt="390d6023-08aa-e171-4487-78aeb2632d4b.jpg">
 
-![09d756fb-ee35-968b-20fb-82e0bcb82d0d.png](/assets/images/09d756fb-ee35-968b-20fb-82e0bcb82d0d.png)
+<img src="{{ site.baseurl }}/assets/images/09d756fb-ee35-968b-20fb-82e0bcb82d0d.png" alt="09d756fb-ee35-968b-20fb-82e0bcb82d0d.png">
 
 Strange days.
 

@@ -21,7 +21,7 @@ Right now, I feel like entering execution mode. I have some clear product change
 
 Two weeks ago, I spent the week in SF onboarding for On Deck Founders (ODF).  ODF is more of a community than an experience, and they stressed that this was just a 1-week onboarding with our cohort.  Going in, I was worried it would be douche-y.  It wasn’t!
 
-![c84c3e2c-c311-1632-a01b-018856277b89.jpeg](/assets/images/c84c3e2c-c311-1632-a01b-018856277b89.jpeg)
+<img src="{{ site.baseurl }}/assets/images/c84c3e2c-c311-1632-a01b-018856277b89.jpeg" alt="c84c3e2c-c311-1632-a01b-018856277b89.jpeg">
 
 There was an application process, but because they charge for it, I wasn’t sure if it would be valuable. It was! There were some really helpful talks around startup logistics, but the primary value was getting to talk with other founders who were all very impressive. It was inspiring, therapeutic and helped me think through some things.  But I suspect there will be a long-tail of support from the community, which seems really supportive. I’ve already had someone from an earlier cohort reach out to chat, unprompted.
 
@@ -38,7 +38,7 @@ On March 7th, the Columbia lab shared the app with its first 2 patients. This wa
 
 We paused last week so that I could polish some things and this week we’re trying another 2 patients.
 
-![aa853fcb-e78f-4f3d-063e-ea0abb23e0ab.gif](/assets/images/aa853fcb-e78f-4f3d-063e-ea0abb23e0ab.gif)
+<img src="{{ site.baseurl }}/assets/images/aa853fcb-e78f-4f3d-063e-ea0abb23e0ab.gif" alt="aa853fcb-e78f-4f3d-063e-ea0abb23e0ab.gif">
 
 ## Automated testing
 
@@ -46,7 +46,7 @@ One of the challenges with voice is that there haven’t been good ways to autom
 
 I reached out to a company called Hamming.ai (YC 23) who, get this, has their bot call _your_ bot. So I can have 10 fake, grumpy non-technical “people” call the bot and either try to be cooperative or uncooperative. I think it is going to be a game changer!
 
-![54dd2d2e-c91e-e06b-31fd-5b43751d07ed.jpeg](/assets/images/54dd2d2e-c91e-e06b-31fd-5b43751d07ed.jpeg)
+<img src="{{ site.baseurl }}/assets/images/54dd2d2e-c91e-e06b-31fd-5b43751d07ed.jpeg" alt="54dd2d2e-c91e-e06b-31fd-5b43751d07ed.jpeg">
 
 ## Last two weeks
 
@@ -97,7 +97,7 @@ As I mentioned last week, we can now make videos out of a single image.  As a f
 
 A few weeks ago, I shared this weird image of a woman giving an apple to a horse
 
-![a8548558-fd49-e7db-4770-22415741928a.jpg](/assets/images/a8548558-fd49-e7db-4770-22415741928a.jpg)
+<img src="{{ site.baseurl }}/assets/images/a8548558-fd49-e7db-4770-22415741928a.jpg" alt="a8548558-fd49-e7db-4770-22415741928a.jpg">
 
 The guy on the left looks so annoyingly smug and I imagine the guy on the right just hating him.  So I made it into a video:
 
@@ -105,15 +105,15 @@ _A tense newsroom scene unfolds as the reporter in blue (on the right), visibly 
 
 This worked pretty well:
 
-![9bc62d47dd6af4bd888b83b1122825d7.png](/assets/images/9bc62d47dd6af4bd888b83b1122825d7.png)
+<img src="{{ site.baseurl }}/assets/images/9bc62d47dd6af4bd888b83b1122825d7.png" alt="9bc62d47dd6af4bd888b83b1122825d7.png">
 
 They offer a lip-syncing option, which did _not_ perform well.
 
-![061df5ae775097873f5f31f623a20c9f.png](/assets/images/061df5ae775097873f5f31f623a20c9f.png)
+<img src="{{ site.baseurl }}/assets/images/061df5ae775097873f5f31f623a20c9f.png" alt="061df5ae775097873f5f31f623a20c9f.png">
 
 I tried again. I started with this image of Trump and Putin dishing about strongman stuff and made it into video.
 
-![390d6023-08aa-e171-4487-78aeb2632d4b.jpg](/assets/images/390d6023-08aa-e171-4487-78aeb2632d4b.jpg)
+<img src="{{ site.baseurl }}/assets/images/390d6023-08aa-e171-4487-78aeb2632d4b.jpg" alt="390d6023-08aa-e171-4487-78aeb2632d4b.jpg">
 
 On the one hand, I’m pleased they let me muck around with a known figure without censoring it.  On the other hand, the lip syncing was pretty lame.
 
@@ -123,7 +123,7 @@ _I think if we all dig deep within ourselves we'll find that we are made of love
 
 Not so great.
 
-![cc251912ee0d44164dc18cfb7a59782e.png](/assets/images/cc251912ee0d44164dc18cfb7a59782e.png)
+<img src="{{ site.baseurl }}/assets/images/cc251912ee0d44164dc18cfb7a59782e.png" alt="cc251912ee0d44164dc18cfb7a59782e.png">
 
 So… cheap AI lip syncing out of the box on your first 2 tries: not there yet.
 

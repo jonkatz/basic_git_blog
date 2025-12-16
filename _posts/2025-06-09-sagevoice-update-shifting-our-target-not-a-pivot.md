@@ -9,7 +9,7 @@ Heya Friend,
 
 We’re finally, mostly unpacked.  There’s definitely a bike in my office, but in zoom terms I think the hair maintenance situation is probably the bigger issue.  Do not write me to confirm 😉
 
-![b635ac03-b6ac-d37b-8746-e08b5f9b8d59.gif](/assets/images/b635ac03-b6ac-d37b-8746-e08b5f9b8d59.gif)
+<img src="{{ site.baseurl }}/assets/images/b635ac03-b6ac-d37b-8746-e08b5f9b8d59.gif" alt="b635ac03-b6ac-d37b-8746-e08b5f9b8d59.gif">
 
 ## Welcome to Saalem!
 
@@ -38,7 +38,7 @@ So right now, we’re experimenting with this value proposition:
 
 For anyone who remembers the options, it’s this one:
 
-![0a1d9b57-c6e0-a889-667f-0689eb6a2c7d.png](/assets/images/0a1d9b57-c6e0-a889-667f-0689eb6a2c7d.png)
+<img src="{{ site.baseurl }}/assets/images/0a1d9b57-c6e0-a889-667f-0689eb6a2c7d.png" alt="0a1d9b57-c6e0-a889-667f-0689eb6a2c7d.png">
 
 ## Last week
 
@@ -89,7 +89,7 @@ For anyone who remembers the options, it’s this one:
 
 While we wait for Veo3 the latest and greatest video generation tool to become more widely available (it’s currently $130 a month), I played around with what we have, inserting my new adorable “Sage” into a favorite movie moment of mine:
 
-![094aec23-ba52-0551-93e1-b57ba6c46a19.png](/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png)
+<img src="{{ site.baseurl }}/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png" alt="094aec23-ba52-0551-93e1-b57ba6c46a19.png">
 
 Pretty exciting, reveal, right?
 

@@ -27,21 +27,21 @@ This is still pretty broad. “Telephone interviews” can do a lot. They can su
 
 This is fine, when I have one customer set: principal investigators at single site studies. I can try out a bunch of value propositions and see where I get traction.
 
-![32b3c2c6-7af7-7ad8-5c9c-0ec8160e807c.png](/assets/images/32b3c2c6-7af7-7ad8-5c9c-0ec8160e807c.png)
+<img src="{{ site.baseurl }}/assets/images/32b3c2c6-7af7-7ad8-5c9c-0ec8160e807c.png" alt="32b3c2c6-7af7-7ad8-5c9c-0ec8160e807c.png">
 
 Though the more vocal problem is participant recruitment, I’ve been getting traction primarily with Data collection. More on this another time.
 
 But in reaching the Pharmaceutical clinical trials market, I have more segments to choose from:
 
-![36213d57-e116-82b5-2626-dbc6766a27b7.png](/assets/images/36213d57-e116-82b5-2626-dbc6766a27b7.png)
+<img src="{{ site.baseurl }}/assets/images/36213d57-e116-82b5-2626-dbc6766a27b7.png" alt="36213d57-e116-82b5-2626-dbc6766a27b7.png">
 
 There are technically 16 different combinations of go-to-market. And that’s before you think about small, medium and large within those broader segments. Some don’t make sense, there is probably a lot of overlap in terms of tactics, but it’s still too much too consider.
 
-![5965316b-e68d-3310-4dec-8f1360158f89.gif](/assets/images/5965316b-e68d-3310-4dec-8f1360158f89.gif)
+<img src="{{ site.baseurl }}/assets/images/5965316b-e68d-3310-4dec-8f1360158f89.gif" alt="5965316b-e68d-3310-4dec-8f1360158f89.gif">
 
 Rather than boil the ocean to narrow down on a solution, Shruti suggested starting with the most likely one. For this, I choose Data Collection, where I am both getting the most traction and can see the makings of a moat. And I’m starting with Pharmaceuticals, because they’re the group that pays for, and usually designs the trial.
 
-![349fec99-3c4b-afcb-c0fb-367aac62a7a8.png](/assets/images/349fec99-3c4b-afcb-c0fb-367aac62a7a8.png)
+<img src="{{ site.baseurl }}/assets/images/349fec99-3c4b-afcb-c0fb-367aac62a7a8.png" alt="349fec99-3c4b-afcb-c0fb-367aac62a7a8.png">
 
 Now, I might find it’s not a fit or there’s a blocker in which case I’ll have to change tactics, but I think it’s a good place to start and certainly more actionable than reaching out to 3 segments at once with 4 different offerings.
 
@@ -51,7 +51,7 @@ If you start with the value proposition,
 
 Also, isn’t this design pretty?  New logo in the making…
 
-![9602dcb6-1312-c5d1-1656-a93bea58f4a2.png](/assets/images/9602dcb6-1312-c5d1-1656-a93bea58f4a2.png)
+<img src="{{ site.baseurl }}/assets/images/9602dcb6-1312-c5d1-1656-a93bea58f4a2.png" alt="9602dcb6-1312-c5d1-1656-a93bea58f4a2.png">
 
 ## Last week
 
@@ -105,7 +105,7 @@ I’ve shown you how Stock image services now let you change the race of the peo
 
 So I tried this out, by very lazily uploading 30+ images of me to create the character for the ads named “Jon”.
 
-![e31bdf59-ac75-4cd2-515b-13113510eb0b.png](/assets/images/e31bdf59-ac75-4cd2-515b-13113510eb0b.png)
+<img src="{{ site.baseurl }}/assets/images/e31bdf59-ac75-4cd2-515b-13113510eb0b.png" alt="e31bdf59-ac75-4cd2-515b-13113510eb0b.png">
 
 Admittedly, I included a few without me, but it still did a decent job with my face.
 
@@ -119,18 +119,18 @@ _@jon just won the superbowl and is dancing on the field with his helmet off_
 
 In almost all versions of this, the AI just replaced me with a black guy. Which is probably not the AI ‘being intentionally racist’, so much as a reflection of the images it was trained on. There has been a lot of controversy about this sort of thing ([link](https://www.axios.com/2024/03/01/meta-ai-google-gemini-black-founding-fathers))
 
-![430bf804-4ec2-d06d-b8eb-2107c16d762e.jpeg](/assets/images/430bf804-4ec2-d06d-b8eb-2107c16d762e.jpeg)
+<img src="{{ site.baseurl }}/assets/images/430bf804-4ec2-d06d-b8eb-2107c16d762e.jpeg" alt="430bf804-4ec2-d06d-b8eb-2107c16d762e.jpeg">
 
 **I will never fight Nazis armed only with a shankbone\***@jon is fighting nazis, barechested with a shank bone as his only weapon.\*
 
 This kind of looks like me, but I’m much fitter in real life.  
 No Nazis, no shankbone, guy with cut-off jean shorts and sun glasses in the background. These are fun, it’s like those old kid magazine picture puzzles “spot the silly things!”
 
-![3e3e95f3-0d6e-318d-af04-8229bf73623b.jpeg](/assets/images/3e3e95f3-0d6e-318d-af04-8229bf73623b.jpeg)
+<img src="{{ site.baseurl }}/assets/images/3e3e95f3-0d6e-318d-af04-8229bf73623b.jpeg" alt="3e3e95f3-0d6e-318d-af04-8229bf73623b.jpeg">
 
 **I will never ring the opening bell of the stock exchange\***@jon is ringing in the stock exchange, surrounded by adoring acolytes\*Okay, that vaguely looks like me…but I’m surrounded by copies of me and I’m not opening up the exchange. Maybe I phrased this wrong.
 
-![6a41c5fd-42aa-0944-64ea-6c59836fc88b.png](/assets/images/6a41c5fd-42aa-0944-64ea-6c59836fc88b.png)
+<img src="{{ site.baseurl }}/assets/images/6a41c5fd-42aa-0944-64ea-6c59836fc88b.png" alt="6a41c5fd-42aa-0944-64ea-6c59836fc88b.png">
 
 **I will never be a rock star**
 
@@ -138,19 +138,19 @@ _@jon has sideburns and a beard and is playing guitar at Woodstock_
 
 These turned out okay. Maybe it picked up on my rock star vibe.
 
-![03a799c6-810c-b1f1-e3f9-bd14c922e5cc.jpeg](/assets/images/03a799c6-810c-b1f1-e3f9-bd14c922e5cc.jpeg)
+<img src="{{ site.baseurl }}/assets/images/03a799c6-810c-b1f1-e3f9-bd14c922e5cc.jpeg" alt="03a799c6-810c-b1f1-e3f9-bd14c922e5cc.jpeg">
 
 The same prompt led to a coffee house version of me and, sadly, the most accurate looking. The hat is awful.
 
-![f5f818f7-7412-bc2b-9b0d-b06b5f2397aa.jpeg](/assets/images/f5f818f7-7412-bc2b-9b0d-b06b5f2397aa.jpeg)
+<img src="{{ site.baseurl }}/assets/images/f5f818f7-7412-bc2b-9b0d-b06b5f2397aa.jpeg" alt="f5f818f7-7412-bc2b-9b0d-b06b5f2397aa.jpeg">
 
 **I will never get the presidential medal of freedom\***@jon is being awarded the presidential medal of honor by Barack Obama in the whitehouse. Both are smiling as Barack's fingers linger on the ribbon\*Okay, in this one they made me look much older. I guess old people win this?
 
-![43ca53aa-663a-3baa-1b7b-5bb67c552334.jpeg](/assets/images/43ca53aa-663a-3baa-1b7b-5bb67c552334.jpeg)
+<img src="{{ site.baseurl }}/assets/images/43ca53aa-663a-3baa-1b7b-5bb67c552334.jpeg" alt="43ca53aa-663a-3baa-1b7b-5bb67c552334.jpeg">
 
 And a classic AI-crapping-it’s-pants” image…in this one the ribbon is floating in mid-air.  Maybe I win the medal for magic tricks 🪄.
 
-![ecb155c0-1839-73a0-af6a-dbdd23e4496d.png](/assets/images/ecb155c0-1839-73a0-af6a-dbdd23e4496d.png)
+<img src="{{ site.baseurl }}/assets/images/ecb155c0-1839-73a0-af6a-dbdd23e4496d.png" alt="ecb155c0-1839-73a0-af6a-dbdd23e4496d.png">
 
 I wasn’t joking when I said I spent too much time on this!
 

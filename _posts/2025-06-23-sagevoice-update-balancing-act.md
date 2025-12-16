@@ -9,7 +9,7 @@ Hi-diddly-ho, Neighborino!
 
 It’s summer time!
 
-![c5a83221-7253-5f77-5c1d-aa45b3faceab.gif](/assets/images/c5a83221-7253-5f77-5c1d-aa45b3faceab.gif)
+<img src="{{ site.baseurl }}/assets/images/c5a83221-7253-5f77-5c1d-aa45b3faceab.gif" alt="c5a83221-7253-5f77-5c1d-aa45b3faceab.gif">
 
 I’ll keep this short and won't have an update for two weeks unless something wonderful or terrible happens.  Why? I’ll be traveling next week and am also trying to be pretty heads-down.
 
@@ -21,7 +21,7 @@ New waves of technology tend to be good for startups. With each new wave of tech
 
 What favors startups most is when “disruption” (capital D) happens. I won’t define “Disruption” here, but in this case we’re not talking about ChatGPT (a better, more expensive product), we’re talking about when AI enters areas where quality is paramount and offers a lower quality, cheaper product. With other technologies, startups are the only ones willing to try.
 
-![d036a598-9d27-352c-8a67-fc07f432d16b.jpg](/assets/images/d036a598-9d27-352c-8a67-fc07f432d16b.jpg)
+<img src="{{ site.baseurl }}/assets/images/d036a598-9d27-352c-8a67-fc07f432d16b.jpg" alt="d036a598-9d27-352c-8a67-fc07f432d16b.jpg">
 
 But because of tech giant willingness to experiment, startups are getting pushed into riskier areas. Areas where quality is even _more_ important: Legal, medicine, and education come to mind as areas where capital-D Disruption is possible.
 
@@ -39,7 +39,7 @@ Our upcoming pilot is tough. It’s a cognitive diagnostic that needs to be scor
 
     - Created a 2 minute demo for outbound.  Check it out:
 
-![SageVoice: How it works](/assets/images/e39810f2628173955a1baef56b3c0296.png)
+<img src="{{ site.baseurl }}/assets/images/e39810f2628173955a1baef56b3c0296.png" alt="SageVoice: How it works">
 
 - Circled back to dormant conversations…which all remained dormant.
 
@@ -71,19 +71,19 @@ Our upcoming pilot is tough. It’s a cognitive diagnostic that needs to be scor
 
 Remember this comic I made?
 
-![34dc8c82-1217-5c56-085e-7567848b2df4.png](/assets/images/34dc8c82-1217-5c56-085e-7567848b2df4.png)
+<img src="{{ site.baseurl }}/assets/images/34dc8c82-1217-5c56-085e-7567848b2df4.png" alt="34dc8c82-1217-5c56-085e-7567848b2df4.png">
 
 In the first one I didn’t realize you could tell it what to say!  So I just had it “face the camera and say something”. That led to this (prompts in the links):
 
-![79de9e531c2f8d06fd45de70b20aafba.png](/assets/images/79de9e531c2f8d06fd45de70b20aafba.png)
+<img src="{{ site.baseurl }}/assets/images/79de9e531c2f8d06fd45de70b20aafba.png" alt="79de9e531c2f8d06fd45de70b20aafba.png">
 
 I made my nose bigger in the second one and told it what to say, but it split it across me and the bot:
 
-![32526a34c0dc98a9f3e5e2157668d23e.png](/assets/images/32526a34c0dc98a9f3e5e2157668d23e.png)
+<img src="{{ site.baseurl }}/assets/images/32526a34c0dc98a9f3e5e2157668d23e.png" alt="32526a34c0dc98a9f3e5e2157668d23e.png">
 
 Last one, I told it to do this with a “curb your enthusiasm vibe” and got this weirdness. It’s definitely kind of silly. I’m disappointed we didn’t get the themesong.
 
-![eaf19029f2db6f0a386028b3a08d8eca.png](/assets/images/eaf19029f2db6f0a386028b3a08d8eca.png)
+<img src="{{ site.baseurl }}/assets/images/eaf19029f2db6f0a386028b3a08d8eca.png" alt="eaf19029f2db6f0a386028b3a08d8eca.png">
 
 Stay cool!
 

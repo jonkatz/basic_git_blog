@@ -11,7 +11,7 @@ Hey All,
 
 I hope you’re enjoying spring! I survived Spring Break and a mountain of Jell-O.  I also rode in my first autonomous taxi. You can listen to whatever you (or your seven year old (or the seven year old inside of you)) wants!
 
-![fac014e0-718d-7906-cd13-86a0ab2dc317.jpeg](/assets/images/fac014e0-718d-7906-cd13-86a0ab2dc317.jpeg)
+<img src="{{ site.baseurl }}/assets/images/fac014e0-718d-7906-cd13-86a0ab2dc317.jpeg" alt="fac014e0-718d-7906-cd13-86a0ab2dc317.jpeg">
 
 ## Reminder: SageVoice value proposition
 
@@ -23,7 +23,7 @@ Last time I shared a plan and acknowledged that plans rarely survive reality, bu
 
 In my abstract thinking, with free pilots underway and had proven interest, I could drum up some paid pilots in academia starting in July-ish.
 
-![5e8a5f86-d20a-d3fc-6911-eada937851d1.png](/assets/images/5e8a5f86-d20a-d3fc-6911-eada937851d1.png)
+<img src="{{ site.baseurl }}/assets/images/5e8a5f86-d20a-d3fc-6911-eada937851d1.png" alt="5e8a5f86-d20a-d3fc-6911-eada937851d1.png">
 
 Well…that was extremely naive.  It took just one, overdue conversation to reveal it. In academia, there aren’t a lot of discretionary funds: you have to be written into the budget pretty explicitly at the proposal stage.  And for clinical trials it is often **12-18 months**.  At this early stage, I can’t wait for an 18 month sales cycle to start earning revenue.  The long sales cycle is exacerbated by a low survival rate: not all research is funded.
 
@@ -32,7 +32,7 @@ As you can see above, I thought I’d start exploring “pharma” (by which I l
 What this means for my brain  
 On the one hand I’m excited to deep dive into a space I have little insight into.  On the other hand, I find the networking aspect, which is so crucial to getting insights, to be hard and uncomfortable.
 
-![209cd4fb-fc2d-4878-a892-09c6d9be4ab7.gif](/assets/images/209cd4fb-fc2d-4878-a892-09c6d9be4ab7.gif)
+<img src="{{ site.baseurl }}/assets/images/209cd4fb-fc2d-4878-a892-09c6d9be4ab7.gif" alt="209cd4fb-fc2d-4878-a892-09c6d9be4ab7.gif">
 
 Everyone has the work they procrastinate and for me it’s outreach. I _know_ I have to learn to enjoy it if I’m going to run a successful business.  And I’m getting more comfortable, I’m finding myself randomly talking to folks in the checkout lines more often and it’s delightful. But outreach is not reflexive the way other things are for me and I find myself doing anything besides this work when it’s on my plate.
 
@@ -93,10 +93,10 @@ Every time I make a significant update, I test on staging by sending a few bots 
 
 Here’s an impressive (relatively boring) example of it working.
 
-![c9991c161015a380769cb3e55cc52bd5.png](/assets/images/c9991c161015a380769cb3e55cc52bd5.png)
+<img src="{{ site.baseurl }}/assets/images/c9991c161015a380769cb3e55cc52bd5.png" alt="c9991c161015a380769cb3e55cc52bd5.png">
 
 BUT, sometimes they just interrupt each other repeatedly, which is amazing.  The illusion of a multi-modal ‘intelligence’ comes crashing down.
 
-![1fdf2318f360eca7b9f3071b48b5dd89.png](/assets/images/1fdf2318f360eca7b9f3071b48b5dd89.png)
+<img src="{{ site.baseurl }}/assets/images/1fdf2318f360eca7b9f3071b48b5dd89.png" alt="1fdf2318f360eca7b9f3071b48b5dd89.png">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

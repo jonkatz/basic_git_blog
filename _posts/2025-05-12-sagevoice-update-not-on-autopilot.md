@@ -28,7 +28,7 @@ This would have been a big one (for SageVoice). It was 250 patients, getting wee
 
 The reason it was pulled suddenly is that the study participants were being recruited through a church organization and the community leaders pushed back on the idea of exposing their congregants to AI.
 
-![dc286f2d-3f06-1fa6-dc5a-8929a7d39e24.gif](/assets/images/dc286f2d-3f06-1fa6-dc5a-8929a7d39e24.gif)
+<img src="{{ site.baseurl }}/assets/images/dc286f2d-3f06-1fa6-dc5a-8929a7d39e24.gif" alt="dc286f2d-3f06-1fa6-dc5a-8929a7d39e24.gif">
 
 The researcher 100% should have flagged this earlier and was very apologetic.
 
@@ -54,7 +54,7 @@ If this works, it would be huge, allowing me to further prioritize the primary c
 
 Pallav, if this works out, I owe you bigtime. I’m putting it in writing.
 
-![3e7b6a00-0e43-8cb4-a4fb-6fc736a89882.gif](/assets/images/3e7b6a00-0e43-8cb4-a4fb-6fc736a89882.gif)
+<img src="{{ site.baseurl }}/assets/images/3e7b6a00-0e43-8cb4-a4fb-6fc736a89882.gif" alt="3e7b6a00-0e43-8cb4-a4fb-6fc736a89882.gif">
 
 ## Last two weeks
 
@@ -105,11 +105,11 @@ It’s an instagram/twitter/X account called [punhub](https://x.com/PunHubOnline
 
 Here are a few of my favorites:
 
-![83880ac4-0f3e-7e1f-9c2a-a3be0c03993a.jpeg](/assets/images/83880ac4-0f3e-7e1f-9c2a-a3be0c03993a.jpeg)
+<img src="{{ site.baseurl }}/assets/images/83880ac4-0f3e-7e1f-9c2a-a3be0c03993a.jpeg" alt="83880ac4-0f3e-7e1f-9c2a-a3be0c03993a.jpeg">
 
-![e9279a55-6002-c7bd-3b45-25c62bc70691.jpeg](/assets/images/e9279a55-6002-c7bd-3b45-25c62bc70691.jpeg)
+<img src="{{ site.baseurl }}/assets/images/e9279a55-6002-c7bd-3b45-25c62bc70691.jpeg" alt="e9279a55-6002-c7bd-3b45-25c62bc70691.jpeg">
 
-![9f8f2d0b-e073-94ad-87bf-43d5c6e2d75d.jpeg](/assets/images/9f8f2d0b-e073-94ad-87bf-43d5c6e2d75d.jpeg)
+<img src="{{ site.baseurl }}/assets/images/9f8f2d0b-e073-94ad-87bf-43d5c6e2d75d.jpeg" alt="9f8f2d0b-e073-94ad-87bf-43d5c6e2d75d.jpeg">
 
 So good.
 

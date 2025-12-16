@@ -21,7 +21,7 @@ I originally built this as an interview to entertain my Dad, who has dementia. H
 
 He knows it’s not a human, but he told me he thinks Sage is great. His approval shouldn’t mean anything at this point, but it does.
 
-![33bab63a-12b8-4216-3154-b2a0553c2faf.gif](/assets/images/33bab63a-12b8-4216-3154-b2a0553c2faf.gif)
+<img src="{{ site.baseurl }}/assets/images/33bab63a-12b8-4216-3154-b2a0553c2faf.gif" alt="33bab63a-12b8-4216-3154-b2a0553c2faf.gif">
 
 Again, I 99% abandoned this use case because I couldn’t get anyone I didn’t know to try it, but glad it made it to him.
 
@@ -39,7 +39,7 @@ Here is my rough assessment of the relative saturation of these markets (these s
 
 According to my rough research, medical/clinical/academic research is smaller, but there are fewer big players here.
 
-![3448dcd7-7d42-cf4f-457e-f16eae29aea2.png](/assets/images/3448dcd7-7d42-cf4f-457e-f16eae29aea2.png)
+<img src="{{ site.baseurl }}/assets/images/3448dcd7-7d42-cf4f-457e-f16eae29aea2.png" alt="3448dcd7-7d42-cf4f-457e-f16eae29aea2.png">
 
 In fact, if you get into the medical research vertical, there might be sub-verticals that I want to specialize in, whether it’s by subject area (oncology v. psychiatry) or by need (subject screening, data collection or protocol adherence).  The idea is that once you do one thing better than anyone, then you can expand your use case and your market.
 
@@ -57,7 +57,7 @@ There won’t be an update next week.
   - Spoke to two researchers (Thanks to Zeph!) who said they would put me in touch with folks in their department.
   - I made a demo video for one of them.
 
-![1b4bb0595a9b573dcc0383e3da0436c4.png](/assets/images/1b4bb0595a9b573dcc0383e3da0436c4.png)
+<img src="{{ site.baseurl }}/assets/images/1b4bb0595a9b573dcc0383e3da0436c4.png" alt="1b4bb0595a9b573dcc0383e3da0436c4.png">
 
 - **Cofounder search:** I talked to two potential cofounders.  Both are interesting.  Like dating, it’s hard to gauge potential or how fast to move.
 - **HIPAA:** Steady progress here. Signed with a company and had our kickoff meeting.
@@ -73,7 +73,7 @@ As I mentioned last week, we can now make videos out of a single image.  As a f
 
 A few weeks ago, I shared this weird image of a woman giving an apple to a horse
 
-![29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg](/assets/images/29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg)
+<img src="{{ site.baseurl }}/assets/images/29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg" alt="29ea60e5-6486-2d91-38a8-e7a9a7ad9546.jpg">
 
 and gave it this irresponsible instruction:
 
@@ -83,7 +83,7 @@ I’m sorry.  I tried this 2x and got two results. Thankfully, in neither insta
 
 The first one is very sweet and innocent.
 
-![b7bf3d39d5043b3075e0f7b65df7cbf5.png](/assets/images/b7bf3d39d5043b3075e0f7b65df7cbf5.png)
+<img src="{{ site.baseurl }}/assets/images/b7bf3d39d5043b3075e0f7b65df7cbf5.png" alt="b7bf3d39d5043b3075e0f7b65df7cbf5.png">
 
 In the second one, she awkwardly tries to make out with the horse. I’m sorry, but I am not including it in this very professional newsletter…
 

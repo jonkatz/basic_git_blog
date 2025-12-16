@@ -15,7 +15,7 @@ As a reminder, SageVoice uses AI + voice to solve for the caregiver gap in elder
 
 In the next Newsletter, I need to share more about stock photos…I find the process of finding them to be consistently surprising and delightful.
 
-![8d606925-d217-9c98-19ea-08879a1ba894.jpeg](/assets/images/8d606925-d217-9c98-19ea-08879a1ba894.jpeg)
+<img src="{{ site.baseurl }}/assets/images/8d606925-d217-9c98-19ea-08879a1ba894.jpeg" alt="8d606925-d217-9c98-19ea-08879a1ba894.jpeg">
 
 In the next Newsletter, I need to share more about stock photos…I find the process of finding them to be consistently surprising and delightful.
 
@@ -54,7 +54,7 @@ If you have a lonely loved-one, but _don’t_ want them to try the products ([1]
 - Submitted an application to the Matter Health tech accelerator.  I’ll find out by the end of October.
 - In light of feedback and folks dropping off at purchase, started making content around “what does this look like?”:
 
-![decd91e9-44be-9939-3334-bcf3f69bd2e2.png](/assets/images/decd91e9-44be-9939-3334-bcf3f69bd2e2.png)
+<img src="{{ site.baseurl }}/assets/images/decd91e9-44be-9939-3334-bcf3f69bd2e2.png" alt="decd91e9-44be-9939-3334-bcf3f69bd2e2.png">
 
 - Connected with 3 subject matter experts (in the voice-eldercare space).
 

@@ -11,7 +11,7 @@ Wow, it’s been awhile: 3 weeks longer than usual. I haven’t been ignoring yo
 
 Despite not following my own advice, the vacation was peppered with some great moments. My Dad is increasingly incoherent, but he got a real kick out of spending time with grandkids.
 
-![37471a5e-eb5c-8182-da12-ab55bb3461b6.jpeg](/assets/images/37471a5e-eb5c-8182-da12-ab55bb3461b6.jpeg)
+<img src="{{ site.baseurl }}/assets/images/37471a5e-eb5c-8182-da12-ab55bb3461b6.jpeg" alt="37471a5e-eb5c-8182-da12-ab55bb3461b6.jpeg">
 
 Summer is winding down. I hope you have had some moments like the above before it’s over.
 
@@ -44,7 +44,7 @@ With just 4 weeks left to my time and no signs of traction, I’m starting to th
 
 I found this site recently.  <https://sageechoai.com/>  It’s called SageVoice AI and is modeled off one of the earlier offerings. I wonder if they just go around copying new businesses to see where the interest is.  What a weird business model!
 
-![62778f0e-3b15-27cf-0604-2d80864a3c9e.png](/assets/images/62778f0e-3b15-27cf-0604-2d80864a3c9e.png)
+<img src="{{ site.baseurl }}/assets/images/62778f0e-3b15-27cf-0604-2d80864a3c9e.png" alt="62778f0e-3b15-27cf-0604-2d80864a3c9e.png">
 
 ## Last 3 weeks
 
@@ -70,9 +70,9 @@ I figured I’d quickly create an avatar for you to see, but I haven’t integra
 
 I made this last night in less than 15 minutes. I gave it a script to read, but in the future, it could be responding to what the user said or an expression they made in the video.
 
-![66d7da32-9176-1cef-3402-e41e3b416a16.png](/assets/images/66d7da32-9176-1cef-3402-e41e3b416a16.png)
+<img src="{{ site.baseurl }}/assets/images/66d7da32-9176-1cef-3402-e41e3b416a16.png" alt="66d7da32-9176-1cef-3402-e41e3b416a16.png">
 
-![71e5aaaa75da303de7988928da99197b.png](/assets/images/71e5aaaa75da303de7988928da99197b.png)
+<img src="{{ site.baseurl }}/assets/images/71e5aaaa75da303de7988928da99197b.png" alt="71e5aaaa75da303de7988928da99197b.png">
 
 I personally think the AI camera adds about 15 pounds…
 

@@ -42,7 +42,7 @@ Similarly, there is an issue with the length of pauses the Bot takes before resp
 
 It’s a constant state of flux.
 
-![a714c1f4-b6b9-c216-158c-be28d253b82a.gif](/assets/images/a714c1f4-b6b9-c216-158c-be28d253b82a.gif)
+<img src="{{ site.baseurl }}/assets/images/a714c1f4-b6b9-c216-158c-be28d253b82a.gif" alt="a714c1f4-b6b9-c216-158c-be28d253b82a.gif">
 
 Given that my entire career has been in product management, this is a dance I’m used to. But I don’t think I’ve ever done it at such small time-scales (prioritizing projects on a day-level) and with such little overhead.
 
@@ -100,7 +100,7 @@ I don’t know yet if this business is viable and that’s kind of stressful.  
 
   - The zoo field trip was great.  My first grader dressed up because it coincided with a holiday they invented that requires a costume.
 
-![dd33aeb1-9ebe-1bef-9d1f-187e0ce67856.png](/assets/images/dd33aeb1-9ebe-1bef-9d1f-187e0ce67856.png)
+<img src="{{ site.baseurl }}/assets/images/dd33aeb1-9ebe-1bef-9d1f-187e0ce67856.png" alt="dd33aeb1-9ebe-1bef-9d1f-187e0ce67856.png">
 
 _I’m so proud of his weird._
 
@@ -128,17 +128,17 @@ Here are some examples:
 
 _At least_ the first two pages of results for “woman skiing” are of caucasian women.
 
-![9f4871fb-4e44-edd5-4a17-2326c2be0d80.gif](/assets/images/9f4871fb-4e44-edd5-4a17-2326c2be0d80.gif)
+<img src="{{ site.baseurl }}/assets/images/9f4871fb-4e44-edd5-4a17-2326c2be0d80.gif" alt="9f4871fb-4e44-edd5-4a17-2326c2be0d80.gif">
 
 Here is an image I started with:
 
-![6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg](/assets/images/6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg)
+<img src="{{ site.baseurl }}/assets/images/6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg" alt="6254dad7-f10f-4b7e-02db-48673f0a85e1.jpg">
 
 Here are two ‘single-button’ alterations:
 
-![6d3b6e97-0e1f-eb40-ba14-046f32543748.png](/assets/images/6d3b6e97-0e1f-eb40-ba14-046f32543748.png)
+<img src="{{ site.baseurl }}/assets/images/6d3b6e97-0e1f-eb40-ba14-046f32543748.png" alt="6d3b6e97-0e1f-eb40-ba14-046f32543748.png">
 
-![8f1d32cb-377c-82fc-979c-cf923a5ec597.png](/assets/images/8f1d32cb-377c-82fc-979c-cf923a5ec597.png)
+<img src="{{ site.baseurl }}/assets/images/8f1d32cb-377c-82fc-979c-cf923a5ec597.png" alt="8f1d32cb-377c-82fc-979c-cf923a5ec597.png">
 
 Wild, right?
 

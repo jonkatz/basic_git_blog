@@ -11,7 +11,7 @@ How are you? (I’m actually asking, not just being polite).
 
 I think the main news of last week is that I got a concussion from hitting my head on the ceiling of our temporary house.
 
-![d431e608-b3a0-3fc5-d1d4-c01515f98255.png](/assets/images/d431e608-b3a0-3fc5-d1d4-c01515f98255.png)
+<img src="{{ site.baseurl }}/assets/images/d431e608-b3a0-3fc5-d1d4-c01515f98255.png" alt="d431e608-b3a0-3fc5-d1d4-c01515f98255.png">
 
 I was out of commission for over a day. I resented missing work, but I probably haven’t lain in bed awake, with no distractions for so long since I was a baby, so that was actually nice.
 
@@ -31,7 +31,7 @@ What are SageVoice’s moat(s)? The honest answer, today, is that we don’t yet
 
 As you can see from #3, at this stage it’s okay to have a moat that isn’t built yet.
 
-![a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg](/assets/images/a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg)
+<img src="{{ site.baseurl }}/assets/images/a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg" alt="a622ce20-b9bb-0b25-16f2-d016da2a3fb9.jpg">
 
 ## What are our planned moats?
 
@@ -75,9 +75,9 @@ Any ideas from you all??
 
     - Saalem is making our dashboard much more functional. Here are some screenshots below (all with testing data).  It’s still not beautiful, but it is getting capabilities we know we need.
 
-![80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg](/assets/images/80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg)
+<img src="{{ site.baseurl }}/assets/images/80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg" alt="80dd50c6-6c56-f67f-ca91-7b3ceb1bcda1.jpeg">
 
-![d7125e32-5a45-086f-bfe4-0f63995bd307.png](/assets/images/d7125e32-5a45-086f-bfe4-0f63995bd307.png)
+<img src="{{ site.baseurl }}/assets/images/d7125e32-5a45-086f-bfe4-0f63995bd307.png" alt="d7125e32-5a45-086f-bfe4-0f63995bd307.png">
 
 - **Misc:** We upgraded our login protocol to stay compliant with HIPAA.  Thanks, Abhijit!
 
@@ -108,7 +108,7 @@ _While we wait for Veo3 the latest and greatest video generation tool to become 
 
 It isn’t very good:
 
-![094aec23-ba52-0551-93e1-b57ba6c46a19.png](/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png)
+<img src="{{ site.baseurl }}/assets/images/094aec23-ba52-0551-93e1-b57ba6c46a19.png" alt="094aec23-ba52-0551-93e1-b57ba6c46a19.png">
 
 For the last video, I had to seed it with an image from Empire Strikes back and my “Sage” bot and it de-volved from there. It took 2 prompts to get what you saw.
 
@@ -118,6 +118,6 @@ _darth vader is in empire strikes back and his theme song is playing.  He gets 
 
 This is mind boggling to me:
 
-![1d63e7c04b1a267247c20be0bbc1bd70.png](/assets/images/1d63e7c04b1a267247c20be0bbc1bd70.png)
+<img src="{{ site.baseurl }}/assets/images/1d63e7c04b1a267247c20be0bbc1bd70.png" alt="1d63e7c04b1a267247c20be0bbc1bd70.png">
 
 **As always, questions/feedback/advice on the process or even this email is welcome!**

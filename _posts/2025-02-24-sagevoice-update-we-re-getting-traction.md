@@ -15,7 +15,7 @@ It’s been 2 weeks and it always feels like too much happens for one email.  S
 
 The last time I showed you a value proposition diagram, it had morphed and exploded from one idea (which was not viable) to many new ones to explore and it looked like this:
 
-![6004bbc2-c127-0496-7a3d-c40400bcd7d2.png](/assets/images/6004bbc2-c127-0496-7a3d-c40400bcd7d2.png)
+<img src="{{ site.baseurl }}/assets/images/6004bbc2-c127-0496-7a3d-c40400bcd7d2.png" alt="6004bbc2-c127-0496-7a3d-c40400bcd7d2.png">
 
 The black boxes below represent things I had been trying and wasn’t giving up on.  The green were new things to try.
 
@@ -23,7 +23,7 @@ Of these remaining boxes, I’ve had the most traction with clinical researchers
 
 So here is what it looks like today:
 
-![e5a61d6e-d50f-be6e-6ec4-e9a5c7fd25ae.png](/assets/images/e5a61d6e-d50f-be6e-6ec4-e9a5c7fd25ae.png)
+<img src="{{ site.baseurl }}/assets/images/e5a61d6e-d50f-be6e-6ec4-e9a5c7fd25ae.png" alt="e5a61d6e-d50f-be6e-6ec4-e9a5c7fd25ae.png">
 
 As you can see, it’s much neater! It’s pretty much a sentence.  Traction is allowing me to focus.  It's possible that I’m focusing prematurely, because I haven’t proven this out or gotten paid, but I feel confident _enough_ to focus here until it’s proven wrong.
 
@@ -33,7 +33,7 @@ Within this, there are particular focus areas that need to be figured out.  For
 
 I went from having a couple pilots that were chugging along (and needing more) to having a bunch of interest, new requirements, and a vision for how this could scale. Suddenly, everything is hitting at once. I’m trying to figure out the highest priorities and do them as quickly as possible. Also, now with traction, it’s time to _start_ talking to VCs and potential cofounders. I’m not confident enough to raise yet, but I heard you should start conversations before then.  As one person, it’s not possible.
 
-![77eb6f54-de0c-de9e-b9c7-4db6b541d604.gif](/assets/images/77eb6f54-de0c-de9e-b9c7-4db6b541d604.gif)
+<img src="{{ site.baseurl }}/assets/images/77eb6f54-de0c-de9e-b9c7-4db6b541d604.gif" alt="77eb6f54-de0c-de9e-b9c7-4db6b541d604.gif">
 
 There are also so many things to talk about. Things that you don’t think (or shouldn’t think about) until you have identified a problem/solution set. Things like competition, differentiation, business model, etc.
 
@@ -54,7 +54,7 @@ It’s February 28th→ March 7th. It will create some challenges re: juggling f
 
 Last time. I wrote to you about how a competitor was doing senior loneliness for consumers and how it made me second guess my decision.
 
-![dcccf505-fe5e-96e4-037f-5adece0e67fe.png](/assets/images/dcccf505-fe5e-96e4-037f-5adece0e67fe.png)
+<img src="{{ site.baseurl }}/assets/images/dcccf505-fe5e-96e4-037f-5adece0e67fe.png" alt="dcccf505-fe5e-96e4-037f-5adece0e67fe.png">
 
 Well I met them, and spoke to them and it turns out that they provide services to nursing homes and started this as an add-on feature. The nursing homes were kind of “meh” about it so far, because loneliness and patient well-being was not a priority. (which is what I found).
 
@@ -94,7 +94,7 @@ Dude.  You can now take a stock image and they’ll use AI to make a video out 
 
 Here is an image of that guy confidentally giving us the finger.
 
-![bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg](/assets/images/bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg)
+<img src="{{ site.baseurl }}/assets/images/bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg" alt="bc32753d-8284-8e69-a0c0-65f3adb244d5.jpg">
 
 I gave it this prompt:
 
@@ -102,7 +102,7 @@ _the guys puts his middle finger tipp together and they fuse in the middle.  He
 
 Here is what they generated:
 
-![4f4c3aef0f25762ab980cef148548e98.png](/assets/images/4f4c3aef0f25762ab980cef148548e98.png)
+<img src="{{ site.baseurl }}/assets/images/4f4c3aef0f25762ab980cef148548e98.png" alt="4f4c3aef0f25762ab980cef148548e98.png">
 
 But you can add music, noise or words.  So I gave it this prompt:
 
@@ -112,7 +112,7 @@ _Make a bell chime when his fingers touch._
 
 Here is what they generated:
 
-![f564b759991435d584bd84b835642be0.png](/assets/images/f564b759991435d584bd84b835642be0.png)
+<img src="{{ site.baseurl }}/assets/images/f564b759991435d584bd84b835642be0.png" alt="f564b759991435d584bd84b835642be0.png">
 
 With me so far?  Next week it’s going to get weird.
 

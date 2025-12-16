@@ -18,7 +18,7 @@ Today’s topic is “what went wrong”.  Next time, I’ll cover what I think
 3. (Maybe) Mistakes I made?
 4. End result: Why the offering failed
 
-![3c235fa7-becf-7df9-2b04-451af798b909.gif](/assets/images/3c235fa7-becf-7df9-2b04-451af798b909.gif)
+<img src="{{ site.baseurl }}/assets/images/3c235fa7-becf-7df9-2b04-451af798b909.gif" alt="3c235fa7-becf-7df9-2b04-451af798b909.gif">
 
 ## How dead is SageVoice?
 
@@ -50,7 +50,7 @@ A number of people have asked what it means that I’m winding SageVoice down. I
 
 I’m convinced, this is the right approach that is just too early.  There’s a world in which, a year from now, the market is ready for this and I revive it…I think that chance is pretty slim.
 
-![b5ca5364-897d-5d5e-413b-9c591e2ccd32.gif](/assets/images/b5ca5364-897d-5d5e-413b-9c591e2ccd32.gif)
+<img src="{{ site.baseurl }}/assets/images/b5ca5364-897d-5d5e-413b-9c591e2ccd32.gif" alt="b5ca5364-897d-5d5e-413b-9c591e2ccd32.gif">
 
 ## Mistakes I made
 
@@ -91,7 +91,7 @@ I waited till my 40s.
 
 Much has been said about the value of being young while starting a company.  I agree with all of it. To sum it up briefly, a 20 something year old who has money in the bank and no social obligations can work harder and take bigger risks than me. I have a mortgage, a wife, 2 kids, 2 cats and a sick Dad. In any given week, I had 30 hrs of time dedicated to my family.  My hardest working weeks were nowhere near 80 hours and my runway was a year.
 
-![253118a3-d938-d7f5-7123-c8cb1ab34e72.png](/assets/images/253118a3-d938-d7f5-7123-c8cb1ab34e72.png)
+<img src="{{ site.baseurl }}/assets/images/253118a3-d938-d7f5-7123-c8cb1ab34e72.png" alt="253118a3-d938-d7f5-7123-c8cb1ab34e72.png">
 
 <p style="font-size: 0.85em; font-style: italic; margin-top: -0.5em;">Not a staged photo!  The kids are older, but it still feels this way sometimes.</p>
 
@@ -107,7 +107,7 @@ While I can learn from the other mistakes, unfortunately, I can’t remedy this 
 
 I took the advice not to talk to investors until I was ready to raise, in part because I wanted to focus on customers and partly because I’m shy.
 
-![aa73cbb9-aad5-d5d4-8bcc-5191839fc19e.jpeg](/assets/images/aa73cbb9-aad5-d5d4-8bcc-5191839fc19e.jpeg)
+<img src="{{ site.baseurl }}/assets/images/aa73cbb9-aad5-d5d4-8bcc-5191839fc19e.jpeg" alt="aa73cbb9-aad5-d5d4-8bcc-5191839fc19e.jpeg">
 
 I probably should have dabbled here more.  The reason is twofold.
 
@@ -158,6 +158,6 @@ That’s what I have for now! Despite the focus of this email being failure, I a
 
 I’ll talk about that more next time.
 
-![88d3263bbf4f70b645ff1e8227d6faf2.png](/assets/images/88d3263bbf4f70b645ff1e8227d6faf2.png)
+<img src="{{ site.baseurl }}/assets/images/88d3263bbf4f70b645ff1e8227d6faf2.png" alt="88d3263bbf4f70b645ff1e8227d6faf2.png">
 
 In the meantime, if you have any specific questions about what went wrong or have another angle I should consider.  Please let me know!
